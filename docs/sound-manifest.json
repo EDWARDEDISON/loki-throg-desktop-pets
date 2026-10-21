@@ -1,0 +1,86 @@
+{
+  "croak": {
+    "seconds": 0.2700226757369614,
+    "sample_rate": 22050,
+    "peak": 0.3174,
+    "source": "original procedural synthesis, no speech"
+  },
+  "chirp": {
+    "seconds": 0.24997732426303854,
+    "sample_rate": 22050,
+    "peak": 0.2588,
+    "source": "original procedural synthesis, no speech"
+  },
+  "pickup": {
+    "seconds": 0.19002267573696144,
+    "sample_rate": 22050,
+    "peak": 0.279,
+    "source": "original procedural synthesis, no speech"
+  },
+  "drop": {
+    "seconds": 0.18,
+    "sample_rate": 22050,
+    "peak": 0.3965,
+    "source": "original procedural synthesis, no speech"
+  },
+  "heart": {
+    "seconds": 0.5299773242630386,
+    "sample_rate": 22050,
+    "peak": 0.2766,
+    "source": "original procedural synthesis, no speech"
+  },
+  "magic": {
+    "seconds": 0.54,
+    "sample_rate": 22050,
+    "peak": 0.281,
+    "source": "original procedural synthesis, no speech"
+  },
+  "zap": {
+    "seconds": 0.22,
+    "sample_rate": 22050,
+    "peak": 0.2117,
+    "source": "original procedural synthesis, no speech"
+  },
+  "whoosh": {
+    "seconds": 0.3,
+    "sample_rate": 22050,
+    "peak": 0.1854,
+    "source": "original procedural synthesis, no speech"
+  },
+  "splash": {
+    "seconds": 0.28997732426303857,
+    "sample_rate": 22050,
+    "peak": 0.2359,
+    "source": "original procedural synthesis, no speech"
+  },
+  "thud": {
+    "seconds": 0.22,
+    "sample_rate": 22050,
+    "peak": 0.4735,
+    "source": "original procedural synthesis, no speech"
+  },
+  "munch": {
+    "seconds": 0.32,
+    "sample_rate": 22050,
+    "peak": 0.2041,
+    "source": "original procedural synthesis, no speech"
+  },
+  "giggle": {
+    "seconds": 0.38997732426303855,
+    "sample_rate": 22050,
+    "peak": 0.2066,
+    "source": "original procedural synthesis, no speech"
+  },
+  "chime": {
+    "seconds": 0.44997732426303855,
+    "sample_rate": 22050,
+    "peak": 0.3434,
+    "source": "original procedural synthesis, no speech"
+  },
+  "soft": {
+    "seconds": 0.34,
+    "sample_rate": 22050,
+    "peak": 0.2275,
+    "source": "original procedural synthesis, no speech"
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "hammer": [
+    [
+      2.38,
+      "thud"
+    ],
+    [
+      3.2,
+      "giggle"
+    ],
+    [
+      6.38,
+      "whoosh"
+    ]
+  ],
+  "ride": [
+    [
+      2.625,
+      "drop"
+    ],
+    [
+      5.417,
+      "croak"
+    ]
+  ],
+  "cozy": [
+    [
+      4,
+      "soft"
+    ]
+  ],
+  "mimic": [
+    [
+      2,
+      "magic"
+    ],
+    [
+      5,
+      "giggle"
+    ]
+  ],
+  "zap": [
+    [
+      3.833333,
+      "zap"
+    ],
+    [
+      5.1,
+      "giggle"
+    ]
+  ],
+  "jar": [
+    [
+      1.5,
+      "magic"
+    ],
+    [
+      5,
+      "croak"
+    ],
+    [
+      8,
+      "chime"
+    ]
+  ],
+  "snake": [
+    [
+      0.65,
+      "magic"
+    ],
+    [
+      5.67,
+      "whoosh"
+    ],
+    [
+      7.42,
+      "munch"
+    ],
+    [
+      14.12,
+      "drop"
+    ],
+    [
+      15.5,
+      "giggle"
+    ]
+  ],
+  "flight": [
+    [
+      2.58,
+      "whoosh"
+    ],
+    [
+      3.67,
+      "munch"
+    ],
+    [
+      11.62,
+      "chime"
+    ],
+    [
+      12.83,
+      "drop"
+    ]
+  ],
+  "duobath": [
+    [
+      2.5,
+      "splash"
+    ],
+    [
+      6,
+      "splash"
+    ]
+  ],
+  "swing": [
+    [
+      3.42,
+      "drop"
+    ],
+    [
+      8.8,
+      "whoosh"
+    ],
+    [
+      9.5,
+      "drop"
+    ]
+  ],
+  "reconcile": [
+    [
+      5.5,
+      "chime"
+    ],
+    [
+      7.6,
+      "giggle"
+    ]
+  ],
+  "snackshare": [
+    [
+      1.5,
+      "magic"
+    ],
+    [
+      5.5,
+      "chime"
+    ],
+    [
+      7,
+      "munch"
+    ]
+  ],
+  "heart": [
+    [
+      2,
+      "heart"
+    ]
+  ],
+  "bath": [
+    [
+      2,
+      "splash"
+    ],
+    [
+      5,
+      "splash"
+    ]
+  ],
+  "venom": [
+    [
+      2,
+      "magic"
+    ],
+    [
+      4,
+      "chirp"
+    ]
+  ],
+  "doctor": [
+    [
+      2.83,
+      "magic"
+    ],
+    [
+      4.25,
+      "chime"
+    ],
+    [
+      8.08,
+      "whoosh"
+    ],
+    [
+      10.58,
+      "soft"
+    ]
+  ],
+  "recall": [
+    [
+      1.5,
+      "whoosh"
+    ],
+    [
+      4.12,
+      "chime"
+    ]
+  ],
+  "lightning": [
+    [
+      2.6,
+      "zap"
+    ]
+  ],
+  "thorheart": [
+    [
+      0.8,
+      "drop"
+    ],
+    [
+      2.5,
+      "heart"
+    ]
+  ],
+  "thorfly": [
+    [
+      2,
+      "whoosh"
+    ],
+    [
+      6.83,
+      "drop"
+    ]
+  ],
+  "gear": [
+    [
+      2.3,
+      "chime"
+    ]
+  ],
+  "cloud": [
+    [
+      1.5,
+      "croak"
+    ],
+    [
+      3.2,
+      "zap"
+    ]
+  ],
+  "landing": [
+    [
+      2.62,
+      "thud"
+    ],
+    [
+      4.1,
+      "croak"
+    ]
+  ],
+  "thorsleep": [
+    [
+      3,
+      "soft"
+    ]
+  ],
+  "sparkchase": [
+    [
+      1.8,
+      "zap"
+    ],
+    [
+      4.6,
+      "chirp"
+    ]
+  ],
+  "mirror": [
+    [
+      2.5,
+      "chime"
+    ]
+  ],
+  "beat": [
+    [
+      1.6,
+      "drop"
+    ],
+    [
+      2,
+      "drop"
+    ],
+    [
+      2.4,
+      "drop"
+    ],
+    [
+      2.8,
+      "drop"
+    ]
+  ],
+  "greet": [
+    [
+      1.6,
+      "croak"
+    ]
+  ],
+  "sun": [
+    [
+      3,
+      "soft"
+    ]
+  ],
+  "run": [
+    [
+      1.3,
+      "whoosh"
+    ]
+  ],
+  "prank": [
+    [
+      2,
+      "giggle"
+    ]
+  ],
+  "tailchase": [
+    [
+      2.5,
+      "chirp"
+    ]
+  ],
+  "horns": [
+    [
+      3,
+      "chime"
+    ]
+  ],
+  "snack": [
+    [
+      2,
+      "magic"
+    ],
+    [
+      4,
+      "munch"
+    ]
+  ],
+  "laugh": [
+    [
+      1.8,
+      "giggle"
+    ],
+    [
+      3.5,
+      "giggle"
+    ]
+  ],
+  "drag": [
+    [
+      1,
+      "pickup"
+    ]
+  ]
+}

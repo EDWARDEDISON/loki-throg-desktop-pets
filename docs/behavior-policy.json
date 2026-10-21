@@ -1,0 +1,45 @@
+{
+  "version": 10,
+  "autonomy": {
+    "independent_roaming": true,
+    "automatic_pair_trigger": "new proximity contact only; no timed forced pairing",
+    "pair_selection": "uniform independent draw across the twelve kinds; repeats allowed",
+    "pair_probability": 0.08333333333333333,
+    "encounter_gap_logical_pixels": 16,
+    "vertical_baseline_tolerance": 24,
+    "cooldown_seconds": 30,
+    "solo_wait_seconds": [
+      180,
+      300
+    ],
+    "solo_timer": "per pet, reset after interaction or its solo action finishes; busy/sleeping/dragged/menu-held pets defer",
+    "solo_selection": "uniform across the chosen actor own twelve actions",
+    "roaming_target": "far edge of current work area; keep target across rests and interactions; reverse after arrival",
+    "speed_logical_pixels_per_second": {
+      "loki": 24,
+      "thor": 30
+    },
+    "walk_before_rest_seconds": [
+      18,
+      30
+    ],
+    "mid_route_rest_seconds": [
+      0.7,
+      1.8
+    ]
+  },
+  "menus": {
+    "loki": "own twelve solos; seek brother for random or selected pair",
+    "thor": "own twelve solos; seek younger brother for random or selected pair"
+  },
+  "manual_seek": "initiating pet walks to waiting partner, then both stage the chosen action; manual choice ignores automatic cooldown",
+  "runtime_status": "PASS: actual engine self-test and short native startup smoke check; no manual menu-click test",
+  "audio": {
+    "enabled_by_default": true,
+    "volume_percent": 25,
+    "effects": 14,
+    "playback": "sparse, nonblocking, original PCM effects",
+    "mute_and_volume_menu": true,
+    "settings": "%LOCALAPPDATA%/LokiThrogPets/sound-settings.ini"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "version": 9,
+  "manifest": "unified-assets-v7.json",
+  "skin": {
+    "main": "748954",
+    "shadow": "566940",
+    "deep": "3b472d",
+    "light": "96a86b"
+  },
+  "cream": {
+    "main": "f1e0a0",
+    "shadow": "d4c686",
+    "light": "fff0ba"
+  },
+  "gold": {
+    "main": "e4ac2f",
+    "shadow": "a96b1e",
+    "light": "ffd55d"
+  },
+  "frog_green_main": "96c72f",
+  "note": "Replaces inherited v6 ledger because earlier action sprites were replaced. Current mappings and gold repairs are in unified-assets-v7.json.",
+  "expansion_manifest": "expansion-assets-v8.json",
+  "repair_manifest": "repair-assets-v9.json"
+}

@@ -1,0 +1,3925 @@
+{
+  "fps": 24,
+  "count": 144,
+  "width": 384,
+  "height": 256,
+  "baseline": 214,
+  "seconds": 6,
+  "actor": "thor",
+  "pixel_grid": 2,
+  "preview_scale": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "time": 0.0,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 1,
+      "time": 0.041666666666666664,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 2,
+      "time": 0.08333333333333333,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 3,
+      "time": 0.125,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 4,
+      "time": 0.16666666666666666,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 5,
+      "time": 0.20833333333333334,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 6,
+      "time": 0.25,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 7,
+      "time": 0.2916666666666667,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 8,
+      "time": 0.3333333333333333,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 9,
+      "time": 0.375,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 10,
+      "time": 0.4166666666666667,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 11,
+      "time": 0.4583333333333333,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 12,
+      "time": 0.5,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 13,
+      "time": 0.5416666666666666,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 14,
+      "time": 0.5833333333333334,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 15,
+      "time": 0.625,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 16,
+      "time": 0.6666666666666666,
+      "caption": "向后摆臂，准备掷锤",
+      "pose": "thor-throw6-1",
+      "phase": "windup",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-throw6-1",
+          "x": 138,
+          "y": 126,
+          "width": 108,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 17,
+      "time": 0.7083333333333334,
+      "caption": "向后摆臂，准备掷锤",
+      "pose": "thor-throw6-1",
+      "phase": "windup",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-throw6-1",
+          "x": 138,
+          "y": 126,
+          "width": 108,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 18,
+      "time": 0.75,
+      "caption": "向后摆臂，准备掷锤",
+      "pose": "thor-throw6-1",
+      "phase": "windup",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-throw6-1",
+          "x": 138,
+          "y": 126,
+          "width": 108,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 19,
+      "time": 0.7916666666666666,
+      "caption": "向后摆臂，准备掷锤",
+      "pose": "thor-throw6-1",
+      "phase": "windup",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-throw6-1",
+          "x": 138,
+          "y": 126,
+          "width": 108,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 20,
+      "time": 0.8333333333333334,
+      "caption": "向后摆臂，准备掷锤",
+      "pose": "thor-throw6-1",
+      "phase": "windup",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-throw6-1",
+          "x": 138,
+          "y": 126,
+          "width": 108,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 21,
+      "time": 0.875,
+      "caption": "向后摆臂，准备掷锤",
+      "pose": "thor-throw6-1",
+      "phase": "windup",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-throw6-1",
+          "x": 138,
+          "y": 126,
+          "width": 108,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 22,
+      "time": 0.9166666666666666,
+      "caption": "向后摆臂，准备掷锤",
+      "pose": "thor-throw6-1",
+      "phase": "windup",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-throw6-1",
+          "x": 138,
+          "y": 126,
+          "width": 108,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 23,
+      "time": 0.9583333333333334,
+      "caption": "向后摆臂，准备掷锤",
+      "pose": "thor-throw6-1",
+      "phase": "windup",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-throw6-1",
+          "x": 138,
+          "y": 126,
+          "width": 108,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 24,
+      "time": 1.0,
+      "caption": "屈膝蓄力",
+      "pose": "thor-throw6-2",
+      "phase": "windup",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-throw6-2",
+          "x": 140,
+          "y": 110,
+          "width": 104,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 25,
+      "time": 1.0416666666666667,
+      "caption": "屈膝蓄力",
+      "pose": "thor-throw6-2",
+      "phase": "windup",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-throw6-2",
+          "x": 140,
+          "y": 110,
+          "width": 104,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 26,
+      "time": 1.0833333333333333,
+      "caption": "屈膝蓄力",
+      "pose": "thor-throw6-2",
+      "phase": "windup",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-throw6-2",
+          "x": 140,
+          "y": 110,
+          "width": 104,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 27,
+      "time": 1.125,
+      "caption": "屈膝蓄力",
+      "pose": "thor-throw6-2",
+      "phase": "windup",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-throw6-2",
+          "x": 140,
+          "y": 110,
+          "width": 104,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 28,
+      "time": 1.1666666666666667,
+      "caption": "屈膝蓄力",
+      "pose": "thor-throw6-2",
+      "phase": "windup",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-throw6-2",
+          "x": 140,
+          "y": 110,
+          "width": 104,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 29,
+      "time": 1.2083333333333333,
+      "caption": "屈膝蓄力",
+      "pose": "thor-throw6-2",
+      "phase": "windup",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-throw6-2",
+          "x": 140,
+          "y": 110,
+          "width": 104,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 30,
+      "time": 1.25,
+      "caption": "屈膝蓄力",
+      "pose": "thor-throw6-2",
+      "phase": "windup",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-throw6-2",
+          "x": 140,
+          "y": 110,
+          "width": 104,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 31,
+      "time": 1.2916666666666667,
+      "caption": "屈膝蓄力",
+      "pose": "thor-throw6-2",
+      "phase": "windup",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-throw6-2",
+          "x": 140,
+          "y": 110,
+          "width": 104,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 32,
+      "time": 1.3333333333333333,
+      "caption": "向前挥臂",
+      "pose": "thor-throw6-3",
+      "phase": "throw",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-throw6-3",
+          "x": 128,
+          "y": 126,
+          "width": 128,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 33,
+      "time": 1.375,
+      "caption": "向前挥臂",
+      "pose": "thor-throw6-3",
+      "phase": "throw",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-throw6-3",
+          "x": 128,
+          "y": 126,
+          "width": 128,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 34,
+      "time": 1.4166666666666667,
+      "caption": "向前挥臂",
+      "pose": "thor-throw6-3",
+      "phase": "throw",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-throw6-3",
+          "x": 128,
+          "y": 126,
+          "width": 128,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 35,
+      "time": 1.4583333333333333,
+      "caption": "向前挥臂",
+      "pose": "thor-throw6-3",
+      "phase": "throw",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-throw6-3",
+          "x": 128,
+          "y": 126,
+          "width": 128,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 36,
+      "time": 1.5,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "thor-throw6-4",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "thor-throw6-4",
+          "x": 128,
+          "y": 126,
+          "width": 128,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 212,
+          "y": 150,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            216,
+            166.0
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 37,
+      "time": 1.5416666666666667,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "thor-throw6-4",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "thor-throw6-4",
+          "x": 128,
+          "y": 126,
+          "width": 128,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 212,
+          "y": 150,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            216.47,
+            165.564
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 38,
+      "time": 1.5833333333333333,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "thor-throw6-4",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "thor-throw6-4",
+          "x": 128,
+          "y": 126,
+          "width": 128,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 214,
+          "y": 148,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            217.831,
+            164.3
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 39,
+      "time": 1.625,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "thor-throw6-4",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "thor-throw6-4",
+          "x": 128,
+          "y": 126,
+          "width": 128,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 216,
+          "y": 146,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            220.01,
+            162.28
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 40,
+      "time": 1.6666666666666667,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "thor-throw6-4",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "thor-throw6-4",
+          "x": 128,
+          "y": 126,
+          "width": 128,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 218,
+          "y": 144,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            222.934,
+            159.579
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 41,
+      "time": 1.7083333333333333,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "thor-throw6-4",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "thor-throw6-4",
+          "x": 128,
+          "y": 126,
+          "width": 128,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 222,
+          "y": 140,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            226.531,
+            156.283
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 42,
+      "time": 1.75,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "u7-empty-5",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-5",
+          "x": 148,
+          "y": 126,
+          "width": 86,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 226,
+          "y": 136,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            230.726,
+            152.491
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 43,
+      "time": 1.7916666666666667,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "u7-empty-5",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-5",
+          "x": 148,
+          "y": 126,
+          "width": 86,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 232,
+          "y": 132,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            235.447,
+            148.318
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 44,
+      "time": 1.8333333333333333,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "u7-empty-5",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-5",
+          "x": 148,
+          "y": 126,
+          "width": 86,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 236,
+          "y": 128,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            240.621,
+            143.892
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 45,
+      "time": 1.875,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "u7-empty-5",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-5",
+          "x": 148,
+          "y": 126,
+          "width": 86,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 242,
+          "y": 124,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            246.175,
+            139.35
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 46,
+      "time": 1.9166666666666667,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "u7-empty-5",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-5",
+          "x": 148,
+          "y": 126,
+          "width": 86,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 248,
+          "y": 118,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            252.035,
+            134.834
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 47,
+      "time": 1.9583333333333333,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "u7-empty-5",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-5",
+          "x": 148,
+          "y": 126,
+          "width": 86,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 254,
+          "y": 114,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            258.13,
+            130.477
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 48,
+      "time": 2.0,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "u7-empty-5",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-5",
+          "x": 148,
+          "y": 126,
+          "width": 86,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 260,
+          "y": 110,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            264.385,
+            126.398
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 49,
+      "time": 2.0416666666666665,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "u7-empty-5",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-5",
+          "x": 148,
+          "y": 126,
+          "width": 86,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 266,
+          "y": 106,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            270.727,
+            122.691
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 50,
+      "time": 2.0833333333333335,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "u7-empty-5",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-5",
+          "x": 148,
+          "y": 126,
+          "width": 86,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 274,
+          "y": 104,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            277.085,
+            119.418
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 51,
+      "time": 2.125,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "u7-empty-5",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-5",
+          "x": 148,
+          "y": 126,
+          "width": 86,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 280,
+          "y": 100,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            283.384,
+            116.609
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 52,
+      "time": 2.1666666666666665,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "u7-empty-5",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-5",
+          "x": 148,
+          "y": 126,
+          "width": 86,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 286,
+          "y": 98,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            289.551,
+            114.26
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 53,
+      "time": 2.2083333333333335,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "u7-empty-5",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-5",
+          "x": 148,
+          "y": 126,
+          "width": 86,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 292,
+          "y": 96,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            295.514,
+            112.34
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 54,
+      "time": 2.25,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "u7-empty-5",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-5",
+          "x": 148,
+          "y": 126,
+          "width": 86,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 298,
+          "y": 94,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            301.199,
+            110.797
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 55,
+      "time": 2.2916666666666665,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "u7-empty-5",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-5",
+          "x": 148,
+          "y": 126,
+          "width": 86,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 302,
+          "y": 94,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            306.534,
+            109.57
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 56,
+      "time": 2.3333333333333335,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "u7-empty-5",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-5",
+          "x": 148,
+          "y": 126,
+          "width": 86,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 308,
+          "y": 92,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            311.445,
+            108.599
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 57,
+      "time": 2.375,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "u7-empty-5",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-5",
+          "x": 148,
+          "y": 126,
+          "width": 86,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 312,
+          "y": 92,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            315.859,
+            107.828
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 58,
+      "time": 2.4166666666666665,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "u7-empty-5",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-5",
+          "x": 148,
+          "y": 126,
+          "width": 86,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 316,
+          "y": 92,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            319.704,
+            107.216
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 59,
+      "time": 2.4583333333333335,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "u7-empty-5",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-5",
+          "x": 148,
+          "y": 126,
+          "width": 86,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 318,
+          "y": 90,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            322.905,
+            106.735
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 60,
+      "time": 2.5,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "u7-empty-5",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-5",
+          "x": 148,
+          "y": 126,
+          "width": 86,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 322,
+          "y": 90,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            325.391,
+            106.374
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 61,
+      "time": 2.5416666666666665,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "u7-empty-5",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-5",
+          "x": 148,
+          "y": 126,
+          "width": 86,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 324,
+          "y": 90,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            327.089,
+            106.13
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 62,
+      "time": 2.5833333333333335,
+      "caption": "锤子脱手向前飞，手已经空了",
+      "pose": "u7-empty-5",
+      "phase": "outbound",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-5",
+          "x": 148,
+          "y": 126,
+          "width": 86,
+          "height": 88,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 324,
+          "y": 90,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            327.924,
+            106.011
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 63,
+      "time": 2.625,
+      "caption": "伸出空手，认真召回",
+      "pose": "u7-empty-7",
+      "phase": "summon",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 324,
+          "y": 90,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            328,
+            106
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 64,
+      "time": 2.6666666666666665,
+      "caption": "伸出空手，认真召回",
+      "pose": "u7-empty-7",
+      "phase": "summon",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 324,
+          "y": 90,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            328,
+            106
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 65,
+      "time": 2.7083333333333335,
+      "caption": "伸出空手，认真召回",
+      "pose": "u7-empty-7",
+      "phase": "summon",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 324,
+          "y": 90,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            328,
+            106
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 66,
+      "time": 2.75,
+      "caption": "伸出空手，认真召回",
+      "pose": "u7-empty-7",
+      "phase": "summon",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 324,
+          "y": 90,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            328,
+            106
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 67,
+      "time": 2.7916666666666665,
+      "caption": "伸出空手，认真召回",
+      "pose": "u7-empty-7",
+      "phase": "summon",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 324,
+          "y": 90,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            328,
+            106
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 68,
+      "time": 2.8333333333333335,
+      "caption": "伸出空手，认真召回",
+      "pose": "u7-empty-7",
+      "phase": "summon",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 324,
+          "y": 90,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            328,
+            106
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 69,
+      "time": 2.875,
+      "caption": "伸出空手，认真召回",
+      "pose": "u7-empty-7",
+      "phase": "summon",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 324,
+          "y": 90,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            328,
+            106
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 70,
+      "time": 2.9166666666666665,
+      "caption": "伸出空手，认真召回",
+      "pose": "u7-empty-7",
+      "phase": "summon",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 324,
+          "y": 90,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            328,
+            106
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 71,
+      "time": 2.9583333333333335,
+      "caption": "伸出空手，认真召回",
+      "pose": "u7-empty-7",
+      "phase": "summon",
+      "real_hammer_owner": "outbound",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 324,
+          "y": 90,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            328,
+            106
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 72,
+      "time": 3.0,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 324,
+          "y": 90,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            328,
+            106.0
+          ],
+          "angle": -90
+        }
+      ]
+    },
+    {
+      "frame": 73,
+      "time": 3.0416666666666665,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 324,
+          "y": 90,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            327.287,
+            105.953
+          ],
+          "angle": -89.622
+        }
+      ]
+    },
+    {
+      "frame": 74,
+      "time": 3.0833333333333335,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 322,
+          "y": 88,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            325.221,
+            105.819
+          ],
+          "angle": -88.529
+        }
+      ]
+    },
+    {
+      "frame": 75,
+      "time": 3.125,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 318,
+          "y": 88,
+          "width": 49,
+          "height": 32,
+          "grip": [
+            321.913,
+            105.607
+          ],
+          "angle": -86.778
+        }
+      ]
+    },
+    {
+      "frame": 76,
+      "time": 3.1666666666666665,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 314,
+          "y": 86,
+          "width": 49,
+          "height": 33,
+          "grip": [
+            317.475,
+            105.339
+          ],
+          "angle": -84.428
+        }
+      ]
+    },
+    {
+      "frame": 77,
+      "time": 3.2083333333333335,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 308,
+          "y": 84,
+          "width": 49,
+          "height": 34,
+          "grip": [
+            312.016,
+            105.049
+          ],
+          "angle": -81.538
+        }
+      ]
+    },
+    {
+      "frame": 78,
+      "time": 3.25,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 300,
+          "y": 80,
+          "width": 50,
+          "height": 34,
+          "grip": [
+            305.648,
+            104.795
+          ],
+          "angle": -78.167
+        }
+      ]
+    },
+    {
+      "frame": 79,
+      "time": 3.2916666666666665,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 294,
+          "y": 78,
+          "width": 51,
+          "height": 34,
+          "grip": [
+            298.482,
+            104.656
+          ],
+          "angle": -74.373
+        }
+      ]
+    },
+    {
+      "frame": 80,
+      "time": 3.3333333333333335,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 286,
+          "y": 76,
+          "width": 50,
+          "height": 34,
+          "grip": [
+            290.629,
+            104.736
+          ],
+          "angle": -70.215
+        }
+      ]
+    },
+    {
+      "frame": 81,
+      "time": 3.375,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 278,
+          "y": 74,
+          "width": 50,
+          "height": 37,
+          "grip": [
+            282.199,
+            105.15
+          ],
+          "angle": -65.752
+        }
+      ]
+    },
+    {
+      "frame": 82,
+      "time": 3.4166666666666665,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 268,
+          "y": 74,
+          "width": 49,
+          "height": 39,
+          "grip": [
+            273.304,
+            106.022
+          ],
+          "angle": -61.043
+        }
+      ]
+    },
+    {
+      "frame": 83,
+      "time": 3.4583333333333335,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 260,
+          "y": 72,
+          "width": 48,
+          "height": 41,
+          "grip": [
+            264.053,
+            107.461
+          ],
+          "angle": -56.146
+        }
+      ]
+    },
+    {
+      "frame": 84,
+      "time": 3.5,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 248,
+          "y": 72,
+          "width": 48,
+          "height": 43,
+          "grip": [
+            254.559,
+            109.556
+          ],
+          "angle": -51.119
+        }
+      ]
+    },
+    {
+      "frame": 85,
+      "time": 3.5416666666666665,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 240,
+          "y": 74,
+          "width": 45,
+          "height": 44,
+          "grip": [
+            244.932,
+            112.355
+          ],
+          "angle": -46.023
+        }
+      ]
+    },
+    {
+      "frame": 86,
+      "time": 3.5833333333333335,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 230,
+          "y": 74,
+          "width": 44,
+          "height": 47,
+          "grip": [
+            235.282,
+            115.857
+          ],
+          "angle": -40.914
+        }
+      ]
+    },
+    {
+      "frame": 87,
+      "time": 3.625,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 220,
+          "y": 78,
+          "width": 42,
+          "height": 47,
+          "grip": [
+            225.721,
+            120.007
+          ],
+          "angle": -35.853
+        }
+      ]
+    },
+    {
+      "frame": 88,
+      "time": 3.6666666666666665,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 210,
+          "y": 80,
+          "width": 40,
+          "height": 49,
+          "grip": [
+            216.36,
+            124.701
+          ],
+          "angle": -30.897
+        }
+      ]
+    },
+    {
+      "frame": 89,
+      "time": 3.7083333333333335,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 202,
+          "y": 84,
+          "width": 38,
+          "height": 50,
+          "grip": [
+            207.309,
+            129.791
+          ],
+          "angle": -26.105
+        }
+      ]
+    },
+    {
+      "frame": 90,
+      "time": 3.75,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 192,
+          "y": 90,
+          "width": 35,
+          "height": 50,
+          "grip": [
+            198.68,
+            135.097
+          ],
+          "angle": -21.536
+        }
+      ]
+    },
+    {
+      "frame": 91,
+      "time": 3.7916666666666665,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 184,
+          "y": 96,
+          "width": 34,
+          "height": 50,
+          "grip": [
+            190.583,
+            140.423
+          ],
+          "angle": -17.25
+        }
+      ]
+    },
+    {
+      "frame": 92,
+      "time": 3.8333333333333335,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 174,
+          "y": 100,
+          "width": 34,
+          "height": 51,
+          "grip": [
+            183.128,
+            145.574
+          ],
+          "angle": -13.303
+        }
+      ]
+    },
+    {
+      "frame": 93,
+      "time": 3.875,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 166,
+          "y": 106,
+          "width": 34,
+          "height": 49,
+          "grip": [
+            176.428,
+            150.365
+          ],
+          "angle": -9.756
+        }
+      ]
+    },
+    {
+      "frame": 94,
+      "time": 3.9166666666666665,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 158,
+          "y": 110,
+          "width": 33,
+          "height": 49,
+          "grip": [
+            170.593,
+            154.63
+          ],
+          "angle": -6.667
+        }
+      ]
+    },
+    {
+      "frame": 95,
+      "time": 3.9583333333333335,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 152,
+          "y": 114,
+          "width": 33,
+          "height": 49,
+          "grip": [
+            165.733,
+            158.229
+          ],
+          "angle": -4.094
+        }
+      ]
+    },
+    {
+      "frame": 96,
+      "time": 4.0,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 146,
+          "y": 118,
+          "width": 32,
+          "height": 48,
+          "grip": [
+            161.959,
+            161.041
+          ],
+          "angle": -2.096
+        }
+      ]
+    },
+    {
+      "frame": 97,
+      "time": 4.041666666666667,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 144,
+          "y": 118,
+          "width": 33,
+          "height": 48,
+          "grip": [
+            159.384,
+            162.966
+          ],
+          "angle": -0.732
+        }
+      ]
+    },
+    {
+      "frame": 98,
+      "time": 4.083333333333333,
+      "caption": "同一把锤子转回来，落向手心",
+      "pose": "u7-empty-7",
+      "phase": "returning",
+      "real_hammer_owner": "returning",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "u7-empty-7",
+          "x": 136,
+          "y": 130,
+          "width": 110,
+          "height": 84,
+          "flip": false
+        },
+        {
+          "sprite": "hammer6",
+          "x": 142,
+          "y": 120,
+          "width": 32,
+          "height": 48,
+          "grip": [
+            158.116,
+            163.913
+          ],
+          "angle": -0.061
+        }
+      ]
+    },
+    {
+      "frame": 99,
+      "time": 4.125,
+      "caption": "双手合拢，接稳锤柄",
+      "pose": "thor-catch6-2",
+      "phase": "catch",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 142,
+          "y": 120,
+          "width": 32,
+          "height": 48,
+          "grip": [
+            158,
+            164
+          ],
+          "angle": 0
+        },
+        {
+          "sprite": "thor-catch6-2",
+          "x": 144,
+          "y": 126,
+          "width": 96,
+          "height": 88,
+          "flip": true
+        }
+      ]
+    },
+    {
+      "frame": 100,
+      "time": 4.166666666666667,
+      "caption": "双手合拢，接稳锤柄",
+      "pose": "thor-catch6-2",
+      "phase": "catch",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 142,
+          "y": 120,
+          "width": 32,
+          "height": 48,
+          "grip": [
+            158,
+            164
+          ],
+          "angle": 0
+        },
+        {
+          "sprite": "thor-catch6-2",
+          "x": 144,
+          "y": 126,
+          "width": 96,
+          "height": 88,
+          "flip": true
+        }
+      ]
+    },
+    {
+      "frame": 101,
+      "time": 4.208333333333333,
+      "caption": "双手合拢，接稳锤柄",
+      "pose": "thor-catch6-2",
+      "phase": "catch",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 142,
+          "y": 120,
+          "width": 32,
+          "height": 48,
+          "grip": [
+            158,
+            164
+          ],
+          "angle": 0
+        },
+        {
+          "sprite": "thor-catch6-2",
+          "x": 144,
+          "y": 126,
+          "width": 96,
+          "height": 88,
+          "flip": true
+        }
+      ]
+    },
+    {
+      "frame": 102,
+      "time": 4.25,
+      "caption": "双手合拢，接稳锤柄",
+      "pose": "thor-catch6-2",
+      "phase": "catch",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 142,
+          "y": 120,
+          "width": 32,
+          "height": 48,
+          "grip": [
+            158,
+            164
+          ],
+          "angle": 0
+        },
+        {
+          "sprite": "thor-catch6-2",
+          "x": 144,
+          "y": 126,
+          "width": 96,
+          "height": 88,
+          "flip": true
+        }
+      ]
+    },
+    {
+      "frame": 103,
+      "time": 4.291666666666667,
+      "caption": "双手合拢，接稳锤柄",
+      "pose": "thor-catch6-2",
+      "phase": "catch",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 142,
+          "y": 120,
+          "width": 32,
+          "height": 48,
+          "grip": [
+            158,
+            164
+          ],
+          "angle": 0
+        },
+        {
+          "sprite": "thor-catch6-2",
+          "x": 144,
+          "y": 126,
+          "width": 96,
+          "height": 88,
+          "flip": true
+        }
+      ]
+    },
+    {
+      "frame": 104,
+      "time": 4.333333333333333,
+      "caption": "双手合拢，接稳锤柄",
+      "pose": "thor-catch6-2",
+      "phase": "catch",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 142,
+          "y": 120,
+          "width": 32,
+          "height": 48,
+          "grip": [
+            158,
+            164
+          ],
+          "angle": 0
+        },
+        {
+          "sprite": "thor-catch6-2",
+          "x": 144,
+          "y": 126,
+          "width": 96,
+          "height": 88,
+          "flip": true
+        }
+      ]
+    },
+    {
+      "frame": 105,
+      "time": 4.375,
+      "caption": "双手合拢，接稳锤柄",
+      "pose": "thor-catch6-2",
+      "phase": "catch",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 142,
+          "y": 120,
+          "width": 32,
+          "height": 48,
+          "grip": [
+            158,
+            164
+          ],
+          "angle": 0
+        },
+        {
+          "sprite": "thor-catch6-2",
+          "x": 144,
+          "y": 126,
+          "width": 96,
+          "height": 88,
+          "flip": true
+        }
+      ]
+    },
+    {
+      "frame": 106,
+      "time": 4.416666666666667,
+      "caption": "后仰一点，卸掉冲力",
+      "pose": "thor-catch6-3",
+      "phase": "catch",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 142,
+          "y": 126,
+          "width": 32,
+          "height": 48,
+          "grip": [
+            158,
+            170
+          ],
+          "angle": 0
+        },
+        {
+          "sprite": "thor-catch6-3",
+          "x": 140,
+          "y": 126,
+          "width": 104,
+          "height": 88,
+          "flip": true
+        }
+      ]
+    },
+    {
+      "frame": 107,
+      "time": 4.458333333333333,
+      "caption": "后仰一点，卸掉冲力",
+      "pose": "thor-catch6-3",
+      "phase": "catch",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 142,
+          "y": 126,
+          "width": 32,
+          "height": 48,
+          "grip": [
+            158,
+            170
+          ],
+          "angle": 0
+        },
+        {
+          "sprite": "thor-catch6-3",
+          "x": 140,
+          "y": 126,
+          "width": 104,
+          "height": 88,
+          "flip": true
+        }
+      ]
+    },
+    {
+      "frame": 108,
+      "time": 4.5,
+      "caption": "后仰一点，卸掉冲力",
+      "pose": "thor-catch6-3",
+      "phase": "catch",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 142,
+          "y": 126,
+          "width": 32,
+          "height": 48,
+          "grip": [
+            158,
+            170
+          ],
+          "angle": 0
+        },
+        {
+          "sprite": "thor-catch6-3",
+          "x": 140,
+          "y": 126,
+          "width": 104,
+          "height": 88,
+          "flip": true
+        }
+      ]
+    },
+    {
+      "frame": 109,
+      "time": 4.541666666666667,
+      "caption": "后仰一点，卸掉冲力",
+      "pose": "thor-catch6-3",
+      "phase": "catch",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 142,
+          "y": 126,
+          "width": 32,
+          "height": 48,
+          "grip": [
+            158,
+            170
+          ],
+          "angle": 0
+        },
+        {
+          "sprite": "thor-catch6-3",
+          "x": 140,
+          "y": 126,
+          "width": 104,
+          "height": 88,
+          "flip": true
+        }
+      ]
+    },
+    {
+      "frame": 110,
+      "time": 4.583333333333333,
+      "caption": "后仰一点，卸掉冲力",
+      "pose": "thor-catch6-3",
+      "phase": "catch",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 142,
+          "y": 126,
+          "width": 32,
+          "height": 48,
+          "grip": [
+            158,
+            170
+          ],
+          "angle": 0
+        },
+        {
+          "sprite": "thor-catch6-3",
+          "x": 140,
+          "y": 126,
+          "width": 104,
+          "height": 88,
+          "flip": true
+        }
+      ]
+    },
+    {
+      "frame": 111,
+      "time": 4.625,
+      "caption": "后仰一点，卸掉冲力",
+      "pose": "thor-catch6-3",
+      "phase": "catch",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 142,
+          "y": 126,
+          "width": 32,
+          "height": 48,
+          "grip": [
+            158,
+            170
+          ],
+          "angle": 0
+        },
+        {
+          "sprite": "thor-catch6-3",
+          "x": 140,
+          "y": 126,
+          "width": 104,
+          "height": 88,
+          "flip": true
+        }
+      ]
+    },
+    {
+      "frame": 112,
+      "time": 4.666666666666667,
+      "caption": "后仰一点，卸掉冲力",
+      "pose": "thor-catch6-3",
+      "phase": "catch",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 142,
+          "y": 126,
+          "width": 32,
+          "height": 48,
+          "grip": [
+            158,
+            170
+          ],
+          "angle": 0
+        },
+        {
+          "sprite": "thor-catch6-3",
+          "x": 140,
+          "y": 126,
+          "width": 104,
+          "height": 88,
+          "flip": true
+        }
+      ]
+    },
+    {
+      "frame": 113,
+      "time": 4.708333333333333,
+      "caption": "后仰一点，卸掉冲力",
+      "pose": "thor-catch6-3",
+      "phase": "catch",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 142,
+          "y": 126,
+          "width": 32,
+          "height": 48,
+          "grip": [
+            158,
+            170
+          ],
+          "angle": 0
+        },
+        {
+          "sprite": "thor-catch6-3",
+          "x": 140,
+          "y": 126,
+          "width": 104,
+          "height": 88,
+          "flip": true
+        }
+      ]
+    },
+    {
+      "frame": 114,
+      "time": 4.75,
+      "caption": "后仰一点，卸掉冲力",
+      "pose": "thor-catch6-3",
+      "phase": "catch",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 142,
+          "y": 126,
+          "width": 32,
+          "height": 48,
+          "grip": [
+            158,
+            170
+          ],
+          "angle": 0
+        },
+        {
+          "sprite": "thor-catch6-3",
+          "x": 140,
+          "y": 126,
+          "width": 104,
+          "height": 88,
+          "flip": true
+        }
+      ]
+    },
+    {
+      "frame": 115,
+      "time": 4.791666666666667,
+      "caption": "后仰一点，卸掉冲力",
+      "pose": "thor-catch6-3",
+      "phase": "catch",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 142,
+          "y": 126,
+          "width": 32,
+          "height": 48,
+          "grip": [
+            158,
+            170
+          ],
+          "angle": 0
+        },
+        {
+          "sprite": "thor-catch6-3",
+          "x": 140,
+          "y": 126,
+          "width": 104,
+          "height": 88,
+          "flip": true
+        }
+      ]
+    },
+    {
+      "frame": 116,
+      "time": 4.833333333333333,
+      "caption": "把锤子放回身侧",
+      "pose": "thor-catch6-4",
+      "phase": "lower",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 142,
+          "y": 126,
+          "width": 32,
+          "height": 48,
+          "grip": [
+            158.669,
+            170.472
+          ],
+          "angle": 1.771
+        },
+        {
+          "sprite": "thor-catch6-4",
+          "x": 144,
+          "y": 126,
+          "width": 96,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 117,
+      "time": 4.875,
+      "caption": "把锤子放回身侧",
+      "pose": "thor-catch6-4",
+      "phase": "lower",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 140,
+          "y": 128,
+          "width": 33,
+          "height": 49,
+          "grip": [
+            161.138,
+            172.215
+          ],
+          "angle": 8.306
+        },
+        {
+          "sprite": "thor-catch6-4",
+          "x": 144,
+          "y": 126,
+          "width": 96,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 118,
+      "time": 4.916666666666667,
+      "caption": "把锤子放回身侧",
+      "pose": "thor-catch6-4",
+      "phase": "lower",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 136,
+          "y": 130,
+          "width": 35,
+          "height": 50,
+          "grip": [
+            164.99,
+            174.934
+          ],
+          "angle": 18.503
+        },
+        {
+          "sprite": "thor-catch6-4",
+          "x": 144,
+          "y": 126,
+          "width": 96,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 119,
+      "time": 4.958333333333333,
+      "caption": "把锤子放回身侧",
+      "pose": "thor-catch6-4",
+      "phase": "lower",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 136,
+          "y": 134,
+          "width": 40,
+          "height": 49,
+          "grip": [
+            169.764,
+            178.304
+          ],
+          "angle": 31.141
+        },
+        {
+          "sprite": "thor-catch6-4",
+          "x": 144,
+          "y": 126,
+          "width": 96,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 120,
+      "time": 5.0,
+      "caption": "把锤子放回身侧",
+      "pose": "thor-catch6-4",
+      "phase": "lower",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 136,
+          "y": 144,
+          "width": 44,
+          "height": 44,
+          "grip": [
+            175.0,
+            182.0
+          ],
+          "angle": 45.0
+        },
+        {
+          "sprite": "thor-catch6-4",
+          "x": 144,
+          "y": 126,
+          "width": 96,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 121,
+      "time": 5.041666666666667,
+      "caption": "把锤子放回身侧",
+      "pose": "thor-catch6-4",
+      "phase": "lower",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 136,
+          "y": 152,
+          "width": 49,
+          "height": 40,
+          "grip": [
+            180.236,
+            185.696
+          ],
+          "angle": 58.859
+        },
+        {
+          "sprite": "thor-catch6-4",
+          "x": 144,
+          "y": 126,
+          "width": 96,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 122,
+      "time": 5.083333333333333,
+      "caption": "把锤子放回身侧",
+      "pose": "thor-catch6-4",
+      "phase": "lower",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 140,
+          "y": 162,
+          "width": 50,
+          "height": 35,
+          "grip": [
+            185.01,
+            189.066
+          ],
+          "angle": 71.497
+        },
+        {
+          "sprite": "thor-catch6-4",
+          "x": 144,
+          "y": 126,
+          "width": 96,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 123,
+      "time": 5.125,
+      "caption": "把锤子放回身侧",
+      "pose": "thor-catch6-4",
+      "phase": "lower",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 144,
+          "y": 170,
+          "width": 49,
+          "height": 33,
+          "grip": [
+            188.862,
+            191.785
+          ],
+          "angle": 81.694
+        },
+        {
+          "sprite": "thor-catch6-4",
+          "x": 144,
+          "y": 126,
+          "width": 96,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 124,
+      "time": 5.166666666666667,
+      "caption": "把锤子放回身侧",
+      "pose": "thor-catch6-4",
+      "phase": "lower",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 148,
+          "y": 176,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            191.331,
+            193.528
+          ],
+          "angle": 88.229
+        },
+        {
+          "sprite": "thor-catch6-4",
+          "x": 144,
+          "y": 126,
+          "width": 96,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 125,
+      "time": 5.208333333333333,
+      "caption": "手放低，满意地笑一下",
+      "pose": "thor-catch6-5",
+      "phase": "lower",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 152,
+          "y": 178,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            196,
+            194
+          ],
+          "angle": 90
+        },
+        {
+          "sprite": "thor-catch6-5",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 126,
+      "time": 5.25,
+      "caption": "手放低，满意地笑一下",
+      "pose": "thor-catch6-5",
+      "phase": "lower",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 152,
+          "y": 178,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            196,
+            194
+          ],
+          "angle": 90
+        },
+        {
+          "sprite": "thor-catch6-5",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 127,
+      "time": 5.291666666666667,
+      "caption": "手放低，满意地笑一下",
+      "pose": "thor-catch6-5",
+      "phase": "lower",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 152,
+          "y": 178,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            196,
+            194
+          ],
+          "angle": 90
+        },
+        {
+          "sprite": "thor-catch6-5",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 128,
+      "time": 5.333333333333333,
+      "caption": "手放低，满意地笑一下",
+      "pose": "thor-catch6-5",
+      "phase": "lower",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 152,
+          "y": 178,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            196,
+            194
+          ],
+          "angle": 90
+        },
+        {
+          "sprite": "thor-catch6-5",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 129,
+      "time": 5.375,
+      "caption": "手放低，满意地笑一下",
+      "pose": "thor-catch6-5",
+      "phase": "lower",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 152,
+          "y": 178,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            196,
+            194
+          ],
+          "angle": 90
+        },
+        {
+          "sprite": "thor-catch6-5",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 130,
+      "time": 5.416666666666667,
+      "caption": "手放低，满意地笑一下",
+      "pose": "thor-catch6-5",
+      "phase": "lower",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 152,
+          "y": 178,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            196,
+            194
+          ],
+          "angle": 90
+        },
+        {
+          "sprite": "thor-catch6-5",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 131,
+      "time": 5.458333333333333,
+      "caption": "手放低，满意地笑一下",
+      "pose": "thor-catch6-5",
+      "phase": "lower",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 152,
+          "y": 178,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            196,
+            194
+          ],
+          "angle": 90
+        },
+        {
+          "sprite": "thor-catch6-5",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 132,
+      "time": 5.5,
+      "caption": "手放低，满意地笑一下",
+      "pose": "thor-catch6-5",
+      "phase": "lower",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 152,
+          "y": 178,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            196,
+            194
+          ],
+          "angle": 90
+        },
+        {
+          "sprite": "thor-catch6-5",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 133,
+      "time": 5.541666666666667,
+      "caption": "手放低，满意地笑一下",
+      "pose": "thor-catch6-5",
+      "phase": "lower",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "shared_prop",
+      "records": [
+        {
+          "sprite": "hammer6",
+          "x": 152,
+          "y": 178,
+          "width": 48,
+          "height": 32,
+          "grip": [
+            196,
+            194
+          ],
+          "angle": 90
+        },
+        {
+          "sprite": "thor-catch6-5",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 134,
+      "time": 5.583333333333333,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 135,
+      "time": 5.625,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 136,
+      "time": 5.666666666666667,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 137,
+      "time": 5.708333333333333,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 138,
+      "time": 5.75,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 139,
+      "time": 5.791666666666667,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 140,
+      "time": 5.833333333333333,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 141,
+      "time": 5.875,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 142,
+      "time": 5.916666666666667,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 143,
+      "time": 5.958333333333333,
+      "caption": "自然待机，锤子垂在身侧",
+      "pose": "thor-idle-low",
+      "phase": "idle",
+      "real_hammer_owner": "thor",
+      "real_hammer_source": "thor_sprite",
+      "records": [
+        {
+          "sprite": "thor-idle-low",
+          "x": 148,
+          "y": 126,
+          "width": 88,
+          "height": 88,
+          "flip": false
+        }
+      ]
+    }
+  ]
+}

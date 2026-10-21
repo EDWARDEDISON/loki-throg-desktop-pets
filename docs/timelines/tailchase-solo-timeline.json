@@ -1,0 +1,4333 @@
+{
+  "fps": 24,
+  "count": 216,
+  "width": 384,
+  "height": 256,
+  "seconds": 9,
+  "baseline": 214,
+  "actor": "loki",
+  "pixel_grid": 2,
+  "preview_scale": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "time": 0.0,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 1,
+      "time": 0.041666666666666664,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 2,
+      "time": 0.08333333333333333,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 3,
+      "time": 0.125,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 4,
+      "time": 0.16666666666666666,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 5,
+      "time": 0.20833333333333334,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 6,
+      "time": 0.25,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 7,
+      "time": 0.2916666666666667,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 8,
+      "time": 0.3333333333333333,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 9,
+      "time": 0.375,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 10,
+      "time": 0.4166666666666667,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 11,
+      "time": 0.4583333333333333,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 12,
+      "time": 0.5,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 13,
+      "time": 0.5416666666666666,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 14,
+      "time": 0.5833333333333334,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 15,
+      "time": 0.625,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 16,
+      "time": 0.6666666666666666,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 17,
+      "time": 0.7083333333333334,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 18,
+      "time": 0.75,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 19,
+      "time": 0.7916666666666666,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 20,
+      "time": 0.8333333333333334,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 21,
+      "time": 0.875,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 22,
+      "time": 0.9166666666666666,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 23,
+      "time": 0.9583333333333334,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 24,
+      "time": 1.0,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 25,
+      "time": 1.0416666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 26,
+      "time": 1.0833333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 27,
+      "time": 1.125,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 28,
+      "time": 1.1666666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 29,
+      "time": 1.2083333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 30,
+      "time": 1.25,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 31,
+      "time": 1.2916666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 32,
+      "time": 1.3333333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-4",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-4",
+          "x": 80,
+          "y": 108,
+          "width": 182,
+          "height": 106,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 33,
+      "time": 1.375,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-4",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-4",
+          "x": 80,
+          "y": 108,
+          "width": 182,
+          "height": 106,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 34,
+      "time": 1.4166666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-4",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-4",
+          "x": 80,
+          "y": 108,
+          "width": 182,
+          "height": 106,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 35,
+      "time": 1.4583333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-4",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-4",
+          "x": 80,
+          "y": 108,
+          "width": 182,
+          "height": 106,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 36,
+      "time": 1.5,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-4",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-4",
+          "x": 80,
+          "y": 108,
+          "width": 182,
+          "height": 106,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 37,
+      "time": 1.5416666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-5",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-5",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 38,
+      "time": 1.5833333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-5",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-5",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 39,
+      "time": 1.625,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-5",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-5",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 40,
+      "time": 1.6666666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-5",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-5",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 41,
+      "time": 1.7083333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-5",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-5",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 42,
+      "time": 1.75,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-6",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-6",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 43,
+      "time": 1.7916666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-6",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-6",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 44,
+      "time": 1.8333333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-6",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-6",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 45,
+      "time": 1.875,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-6",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-6",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 46,
+      "time": 1.9166666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-6",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-6",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 47,
+      "time": 1.9583333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-6",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-6",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 48,
+      "time": 2.0,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-7",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-7",
+          "x": 88,
+          "y": 112,
+          "width": 166,
+          "height": 102,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 49,
+      "time": 2.0416666666666665,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-7",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-7",
+          "x": 88,
+          "y": 112,
+          "width": 166,
+          "height": 102,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 50,
+      "time": 2.0833333333333335,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-7",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-7",
+          "x": 88,
+          "y": 112,
+          "width": 166,
+          "height": 102,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 51,
+      "time": 2.125,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-7",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-7",
+          "x": 88,
+          "y": 112,
+          "width": 166,
+          "height": 102,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 52,
+      "time": 2.1666666666666665,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-7",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-7",
+          "x": 88,
+          "y": 112,
+          "width": 166,
+          "height": 102,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 53,
+      "time": 2.2083333333333335,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-0",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-0",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 54,
+      "time": 2.25,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-0",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-0",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 55,
+      "time": 2.2916666666666665,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-0",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-0",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 56,
+      "time": 2.3333333333333335,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-0",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-0",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 57,
+      "time": 2.375,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-0",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-0",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 58,
+      "time": 2.4166666666666665,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 59,
+      "time": 2.4583333333333335,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 60,
+      "time": 2.5,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 61,
+      "time": 2.5416666666666665,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 62,
+      "time": 2.5833333333333335,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 63,
+      "time": 2.625,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 64,
+      "time": 2.6666666666666665,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 65,
+      "time": 2.7083333333333335,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 66,
+      "time": 2.75,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 67,
+      "time": 2.7916666666666665,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 68,
+      "time": 2.8333333333333335,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 69,
+      "time": 2.875,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 70,
+      "time": 2.9166666666666665,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 71,
+      "time": 2.9583333333333335,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 72,
+      "time": 3.0,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 73,
+      "time": 3.0416666666666665,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 74,
+      "time": 3.0833333333333335,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-4",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-4",
+          "x": 80,
+          "y": 108,
+          "width": 182,
+          "height": 106,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 75,
+      "time": 3.125,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-4",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-4",
+          "x": 80,
+          "y": 108,
+          "width": 182,
+          "height": 106,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 76,
+      "time": 3.1666666666666665,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-4",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-4",
+          "x": 80,
+          "y": 108,
+          "width": 182,
+          "height": 106,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 77,
+      "time": 3.2083333333333335,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-4",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-4",
+          "x": 80,
+          "y": 108,
+          "width": 182,
+          "height": 106,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 78,
+      "time": 3.25,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-4",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-4",
+          "x": 80,
+          "y": 108,
+          "width": 182,
+          "height": 106,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 79,
+      "time": 3.2916666666666665,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-5",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-5",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 80,
+      "time": 3.3333333333333335,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-5",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-5",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 81,
+      "time": 3.375,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-5",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-5",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 82,
+      "time": 3.4166666666666665,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-5",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-5",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 83,
+      "time": 3.4583333333333335,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-5",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-5",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 84,
+      "time": 3.5,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-5",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-5",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 85,
+      "time": 3.5416666666666665,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-6",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-6",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 86,
+      "time": 3.5833333333333335,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-6",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-6",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 87,
+      "time": 3.625,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-6",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-6",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 88,
+      "time": 3.6666666666666665,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-6",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-6",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 89,
+      "time": 3.7083333333333335,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-6",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-6",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 90,
+      "time": 3.75,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-7",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-7",
+          "x": 88,
+          "y": 112,
+          "width": 166,
+          "height": 102,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 91,
+      "time": 3.7916666666666665,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-7",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-7",
+          "x": 88,
+          "y": 112,
+          "width": 166,
+          "height": 102,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 92,
+      "time": 3.8333333333333335,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-7",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-7",
+          "x": 88,
+          "y": 112,
+          "width": 166,
+          "height": 102,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 93,
+      "time": 3.875,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-7",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-7",
+          "x": 88,
+          "y": 112,
+          "width": 166,
+          "height": 102,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 94,
+      "time": 3.9166666666666665,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-7",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-7",
+          "x": 88,
+          "y": 112,
+          "width": 166,
+          "height": 102,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 95,
+      "time": 3.9583333333333335,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-0",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-0",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 96,
+      "time": 4.0,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-0",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-0",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 97,
+      "time": 4.041666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-0",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-0",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 98,
+      "time": 4.083333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-0",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-0",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 99,
+      "time": 4.125,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-0",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-0",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 100,
+      "time": 4.166666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-0",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-0",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 101,
+      "time": 4.208333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 102,
+      "time": 4.25,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 103,
+      "time": 4.291666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 104,
+      "time": 4.333333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 105,
+      "time": 4.375,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 106,
+      "time": 4.416666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 107,
+      "time": 4.458333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 108,
+      "time": 4.5,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 109,
+      "time": 4.541666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 110,
+      "time": 4.583333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 111,
+      "time": 4.625,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 112,
+      "time": 4.666666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 113,
+      "time": 4.708333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 114,
+      "time": 4.75,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 115,
+      "time": 4.791666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 116,
+      "time": 4.833333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-4",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-4",
+          "x": 80,
+          "y": 108,
+          "width": 182,
+          "height": 106,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 117,
+      "time": 4.875,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-4",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-4",
+          "x": 80,
+          "y": 108,
+          "width": 182,
+          "height": 106,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 118,
+      "time": 4.916666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-4",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-4",
+          "x": 80,
+          "y": 108,
+          "width": 182,
+          "height": 106,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 119,
+      "time": 4.958333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-4",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-4",
+          "x": 80,
+          "y": 108,
+          "width": 182,
+          "height": 106,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 120,
+      "time": 5.0,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-4",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-4",
+          "x": 80,
+          "y": 108,
+          "width": 182,
+          "height": 106,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 121,
+      "time": 5.041666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-4",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-4",
+          "x": 80,
+          "y": 108,
+          "width": 182,
+          "height": 106,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 122,
+      "time": 5.083333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-5",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-5",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 123,
+      "time": 5.125,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-5",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-5",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 124,
+      "time": 5.166666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-5",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-5",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 125,
+      "time": 5.208333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-5",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-5",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 126,
+      "time": 5.25,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-5",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-5",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 127,
+      "time": 5.291666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-6",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-6",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 128,
+      "time": 5.333333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-6",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-6",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 129,
+      "time": 5.375,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-6",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-6",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 130,
+      "time": 5.416666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-6",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-6",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 131,
+      "time": 5.458333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-6",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-6",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 132,
+      "time": 5.5,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-7",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-7",
+          "x": 88,
+          "y": 112,
+          "width": 166,
+          "height": 102,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 133,
+      "time": 5.541666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-7",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-7",
+          "x": 88,
+          "y": 112,
+          "width": 166,
+          "height": 102,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 134,
+      "time": 5.583333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-7",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-7",
+          "x": 88,
+          "y": 112,
+          "width": 166,
+          "height": 102,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 135,
+      "time": 5.625,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-7",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-7",
+          "x": 88,
+          "y": 112,
+          "width": 166,
+          "height": 102,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 136,
+      "time": 5.666666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-7",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-7",
+          "x": 88,
+          "y": 112,
+          "width": 166,
+          "height": 102,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 137,
+      "time": 5.708333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-7",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-7",
+          "x": 88,
+          "y": 112,
+          "width": 166,
+          "height": 102,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 138,
+      "time": 5.75,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-0",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-0",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 139,
+      "time": 5.791666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-0",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-0",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 140,
+      "time": 5.833333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-0",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-0",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 141,
+      "time": 5.875,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-0",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-0",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 142,
+      "time": 5.916666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-0",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-0",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 143,
+      "time": 5.958333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 144,
+      "time": 6.0,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 145,
+      "time": 6.041666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 146,
+      "time": 6.083333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 147,
+      "time": 6.125,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 148,
+      "time": 6.166666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 149,
+      "time": 6.208333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 150,
+      "time": 6.25,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 151,
+      "time": 6.291666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 152,
+      "time": 6.333333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 153,
+      "time": 6.375,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 154,
+      "time": 6.416666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 155,
+      "time": 6.458333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 156,
+      "time": 6.5,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 157,
+      "time": 6.541666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 158,
+      "time": 6.583333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 159,
+      "time": 6.625,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-4",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-4",
+          "x": 80,
+          "y": 108,
+          "width": 182,
+          "height": 106,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 160,
+      "time": 6.666666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-4",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-4",
+          "x": 80,
+          "y": 108,
+          "width": 182,
+          "height": 106,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 161,
+      "time": 6.708333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-4",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-4",
+          "x": 80,
+          "y": 108,
+          "width": 182,
+          "height": 106,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 162,
+      "time": 6.75,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-4",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-4",
+          "x": 80,
+          "y": 108,
+          "width": 182,
+          "height": 106,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 163,
+      "time": 6.791666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-4",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-4",
+          "x": 80,
+          "y": 108,
+          "width": 182,
+          "height": 106,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 164,
+      "time": 6.833333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-5",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-5",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 165,
+      "time": 6.875,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-5",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-5",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 166,
+      "time": 6.916666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-5",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-5",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 167,
+      "time": 6.958333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-5",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-5",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 168,
+      "time": 7.0,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-5",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-5",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 169,
+      "time": 7.041666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-6",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-6",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 170,
+      "time": 7.083333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-6",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-6",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 171,
+      "time": 7.125,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-6",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-6",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 172,
+      "time": 7.166666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-6",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-6",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 173,
+      "time": 7.208333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-6",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-6",
+          "x": 104,
+          "y": 102,
+          "width": 138,
+          "height": 112,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 174,
+      "time": 7.25,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-7",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-7",
+          "x": 88,
+          "y": 112,
+          "width": 166,
+          "height": 102,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 175,
+      "time": 7.291666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-7",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-7",
+          "x": 88,
+          "y": 112,
+          "width": 166,
+          "height": 102,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 176,
+      "time": 7.333333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-7",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-7",
+          "x": 88,
+          "y": 112,
+          "width": 166,
+          "height": 102,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 177,
+      "time": 7.375,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-7",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-7",
+          "x": 88,
+          "y": 112,
+          "width": 166,
+          "height": 102,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 178,
+      "time": 7.416666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-7",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-7",
+          "x": 88,
+          "y": 112,
+          "width": 166,
+          "height": 102,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 179,
+      "time": 7.458333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-7",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-7",
+          "x": 88,
+          "y": 112,
+          "width": 166,
+          "height": 102,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 180,
+      "time": 7.5,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-0",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-0",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 181,
+      "time": 7.541666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-0",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-0",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 182,
+      "time": 7.583333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-0",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-0",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 183,
+      "time": 7.625,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-0",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-0",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 184,
+      "time": 7.666666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-0",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-0",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 185,
+      "time": 7.708333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 186,
+      "time": 7.75,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 187,
+      "time": 7.791666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 188,
+      "time": 7.833333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 189,
+      "time": 7.875,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-1",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-1",
+          "x": 98,
+          "y": 106,
+          "width": 148,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 190,
+      "time": 7.916666666666667,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 191,
+      "time": 7.958333333333333,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 192,
+      "time": 8.0,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 193,
+      "time": 8.041666666666666,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 194,
+      "time": 8.083333333333334,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 195,
+      "time": 8.125,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-2",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-2",
+          "x": 90,
+          "y": 106,
+          "width": 164,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 196,
+      "time": 8.166666666666666,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 197,
+      "time": 8.208333333333334,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 198,
+      "time": 8.25,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 199,
+      "time": 8.291666666666666,
+      "caption": "慢慢转一圈，尾巴从尾根自然跟上",
+      "phase": "gradual_turn",
+      "actor": "loki",
+      "pose": "u9-chase-3",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "u9-chase-3",
+          "x": 116,
+          "y": 98,
+          "width": 112,
+          "height": 116,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 200,
+      "time": 8.333333333333334,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 201,
+      "time": 8.375,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 202,
+      "time": 8.416666666666666,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 203,
+      "time": 8.458333333333334,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 204,
+      "time": 8.5,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 205,
+      "time": 8.541666666666666,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 206,
+      "time": 8.583333333333334,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 207,
+      "time": 8.625,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 208,
+      "time": 8.666666666666666,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 209,
+      "time": 8.708333333333334,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 210,
+      "time": 8.75,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 211,
+      "time": 8.791666666666666,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 212,
+      "time": 8.833333333333334,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 213,
+      "time": 8.875,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 214,
+      "time": 8.916666666666666,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    },
+    {
+      "frame": 215,
+      "time": 8.958333333333334,
+      "caption": "先看看自己的尾巴",
+      "phase": "idle",
+      "actor": "loki",
+      "pose": "loki-idle",
+      "single_continuous_tail": true,
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "facing_audit": []
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+PASS
+Checks=29100
+Embedded PNG assets=454; WAV effects=14
+Covered: pose rendering, all twelve paired and twenty-four solo interactions, nonempty timeline frames, gathering, release, interruption, boundary after walking, pause, resize, proximity-only pair trigger, cooldown, per-pet solo timers, menu/sleep guards, uniform selection and manual seeking.
+Additional checks: both pets reach both work-area edges at 1x and 2x, rests preserve route, explicit turn, animated frog pickup and landing, embedded WAV headers, sparse cue crossing, mute, volume, pause/menu sound guards. Native per-pixel transparency receives an additional startup smoke check.

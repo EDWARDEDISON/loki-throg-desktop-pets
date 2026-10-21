@@ -1,0 +1,2253 @@
+{
+  "master": "character-master-v7.png",
+  "pixel_grid": 2,
+  "base_loki": [
+    168,
+    104
+  ],
+  "base_thor": [
+    88,
+    88
+  ],
+  "sheets": {
+    "lb": {
+      "file": "exec-f5864961-d3c6-4cdb-b9bd-5ba3e1d1ed4c.png",
+      "actor": "loki",
+      "common_native_scale": [
+        0.2537764350453172,
+        0.22317596566523606
+      ],
+      "sizes": [
+        [
+          168,
+          104
+        ],
+        [
+          176,
+          104
+        ],
+        [
+          178,
+          106
+        ],
+        [
+          164,
+          110
+        ],
+        [
+          178,
+          106
+        ],
+        [
+          176,
+          82
+        ],
+        [
+          184,
+          74
+        ],
+        [
+          182,
+          74
+        ],
+        [
+          186,
+          98
+        ],
+        [
+          182,
+          78
+        ],
+        [
+          194,
+          76
+        ],
+        [
+          160,
+          102
+        ]
+      ]
+    },
+    "walk": {
+      "file": "exec-af79d6cd-0b85-4521-aa9e-c33cdc757adf.png",
+      "actor": "loki",
+      "common_native_scale": [
+        0.25688073394495414,
+        0.25742574257425743
+      ],
+      "sizes": [
+        [
+          168,
+          104
+        ],
+        [
+          168,
+          108
+        ],
+        [
+          170,
+          108
+        ],
+        [
+          170,
+          108
+        ],
+        [
+          170,
+          108
+        ],
+        [
+          170,
+          108
+        ],
+        [
+          170,
+          108
+        ],
+        [
+          170,
+          106
+        ],
+        [
+          172,
+          106
+        ],
+        [
+          174,
+          78
+        ],
+        [
+          164,
+          98
+        ],
+        [
+          144,
+          106
+        ]
+      ]
+    },
+    "daily": {
+      "file": "exec-bc9f75fe-e7ea-4e96-9639-0bd66d769108.png",
+      "actor": "loki",
+      "common_native_scale": [
+        0.21818181818181817,
+        0.22510822510822512
+      ],
+      "sizes": [
+        [
+          168,
+          104
+        ],
+        [
+          106,
+          128
+        ],
+        [
+          110,
+          126
+        ],
+        [
+          116,
+          124
+        ],
+        [
+          124,
+          126
+        ],
+        [
+          106,
+          126
+        ],
+        [
+          148,
+          122
+        ],
+        [
+          122,
+          108
+        ],
+        [
+          132,
+          120
+        ],
+        [
+          128,
+          120
+        ],
+        [
+          160,
+          102
+        ],
+        [
+          134,
+          108
+        ]
+      ]
+    },
+    "costume": {
+      "file": "exec-a2c2666e-cff2-458f-896e-c90d14302b9f.png",
+      "actor": "loki",
+      "common_native_scale": [
+        0.24347826086956523,
+        0.23853211009174313
+      ],
+      "sizes": [
+        [
+          168,
+          104
+        ],
+        [
+          168,
+          106
+        ],
+        [
+          166,
+          106
+        ],
+        [
+          168,
+          106
+        ],
+        [
+          186,
+          110
+        ],
+        [
+          170,
+          108
+        ],
+        [
+          172,
+          108
+        ],
+        [
+          170,
+          108
+        ],
+        [
+          174,
+          110
+        ],
+        [
+          184,
+          110
+        ],
+        [
+          166,
+          112
+        ],
+        [
+          168,
+          112
+        ]
+      ]
+    },
+    "mimic": {
+      "file": "exec-ffe0e39f-6991-4433-89ab-11b1f4fea442.png",
+      "actor": "loki",
+      "common_native_scale": [
+        0.24561403508771928,
+        0.2139917695473251
+      ],
+      "sizes": [
+        [
+          168,
+          104
+        ],
+        [
+          152,
+          110
+        ],
+        [
+          156,
+          110
+        ],
+        [
+          142,
+          112
+        ],
+        [
+          156,
+          116
+        ],
+        [
+          150,
+          100
+        ],
+        [
+          150,
+          86
+        ],
+        [
+          158,
+          98
+        ],
+        [
+          152,
+          108
+        ],
+        [
+          152,
+          110
+        ],
+        [
+          164,
+          78
+        ],
+        [
+          162,
+          76
+        ]
+      ]
+    },
+    "tb": {
+      "file": "exec-34e02636-da34-4759-ada1-7dd93e9a6100.png",
+      "actor": "thor",
+      "common_native_scale": [
+        0.18181818181818182,
+        0.16730038022813687
+      ],
+      "sizes": [
+        [
+          88,
+          88
+        ],
+        [
+          88,
+          90
+        ],
+        [
+          98,
+          74
+        ],
+        [
+          102,
+          84
+        ],
+        [
+          102,
+          72
+        ],
+        [
+          104,
+          86
+        ],
+        [
+          74,
+          86
+        ],
+        [
+          74,
+          86
+        ],
+        [
+          72,
+          90
+        ],
+        [
+          108,
+          90
+        ],
+        [
+          96,
+          72
+        ],
+        [
+          72,
+          70
+        ]
+      ]
+    },
+    "ride": {
+      "file": "exec-cc8b795d-6927-4355-9cb0-6e48f60008b8.png",
+      "actor": "thor",
+      "common_native_scale": [
+        0.1774193548387097,
+        0.1732283464566929
+      ],
+      "sizes": [
+        [
+          88,
+          88
+        ],
+        [
+          100,
+          86
+        ],
+        [
+          98,
+          84
+        ],
+        [
+          108,
+          86
+        ],
+        [
+          100,
+          86
+        ],
+        [
+          114,
+          80
+        ],
+        [
+          70,
+          82
+        ],
+        [
+          70,
+          82
+        ],
+        [
+          96,
+          82
+        ],
+        [
+          80,
+          96
+        ],
+        [
+          104,
+          76
+        ],
+        [
+          90,
+          80
+        ]
+      ]
+    },
+    "tr": {
+      "file": "exec-3354d23b-0ed9-4057-a3d1-6869313ed02c.png",
+      "actor": "thor",
+      "common_native_scale": [
+        0.17886178861788618,
+        0.1752988047808765
+      ],
+      "sizes": [
+        [
+          88,
+          88
+        ],
+        [
+          88,
+          90
+        ],
+        [
+          88,
+          90
+        ],
+        [
+          104,
+          76
+        ],
+        [
+          114,
+          80
+        ],
+        [
+          94,
+          88
+        ],
+        [
+          64,
+          86
+        ],
+        [
+          86,
+          90
+        ],
+        [
+          102,
+          76
+        ],
+        [
+          104,
+          110
+        ],
+        [
+          100,
+          86
+        ],
+        [
+          88,
+          90
+        ]
+      ]
+    },
+    "tongue": {
+      "file": "exec-78b5a503-6971-49e9-a1c7-7e80919917c3.png",
+      "actor": "mixed",
+      "common_native_scale": [
+        0.15172413793103448,
+        0.15172413793103448
+      ],
+      "sizes": [
+        [
+          260,
+          200
+        ],
+        [
+          324,
+          200
+        ],
+        [
+          180,
+          30
+        ],
+        [
+          84,
+          100
+        ],
+        [
+          92,
+          88
+        ],
+        [
+          96,
+          88
+        ],
+        [
+          110,
+          94
+        ],
+        [
+          102,
+          86
+        ]
+      ]
+    },
+    "empty": {
+      "file": "exec-d4824e05-e490-4f25-a4be-95b32671f248.png",
+      "actor": "thor",
+      "sizes": [
+        [
+          88,
+          88
+        ],
+        [
+          76,
+          86
+        ],
+        [
+          86,
+          88
+        ],
+        [
+          98,
+          84
+        ],
+        [
+          110,
+          68
+        ],
+        [
+          86,
+          88
+        ],
+        [
+          102,
+          88
+        ],
+        [
+          110,
+          84
+        ]
+      ],
+      "common_native_scale": [
+        0.16236162361623616,
+        0.16176470588235295
+      ]
+    }
+  },
+  "aliases": {
+    "loki-idle": "loki-c6-0",
+    "thor-idle-low": "thor-throw6-0",
+    "loki-lower": "u7-lb-5",
+    "loki-lie": "u7-lb-6",
+    "loki-sleep-natural": "u7-lb-7",
+    "loki-sleep": "u7-lb-7",
+    "loki-rise": "u7-lb-8",
+    "loki-flat": "u7-lb-9",
+    "loki-struggle": "u7-lb-10",
+    "loki-recover": "u7-lb-11",
+    "loki-cast-prank": "u7-lb-3",
+    "loki-heart-ready": "u7-daily-1",
+    "loki-heart-small": "u7-daily-2",
+    "loki-heart-hug": "u7-daily-3",
+    "loki-heart-offer": "u7-daily-4",
+    "loki-bath-in": "u7-daily-6",
+    "loki-bath-rest": "u7-daily-7",
+    "loki-bath-scrub": "u7-daily-8",
+    "loki-bath-out": "u7-daily-10",
+    "loki-venom-start": "u7-costume-1",
+    "loki-venom-half": "u7-costume-2",
+    "loki-venom-full": "u7-costume-3",
+    "loki-venom-tongue": "u7-costume-4",
+    "loki-doctor-start": "u7-costume-6",
+    "loki-doctor-full": "u7-costume-8",
+    "loki-doctor-magic": "u7-costume-9",
+    "loki-doctor-step": "u7-costume-10",
+    "loki-thor-start": "u7-mimic-1",
+    "loki-thor-full": "u7-mimic-2",
+    "loki-thor-show": "u7-mimic-3",
+    "loki-thor-laugh": "u7-mimic-4",
+    "loki-zap-twitch": "u7-mimic-5",
+    "loki-zap-jump": "u7-mimic-7",
+    "loki-zap-glare": "u7-mimic-8",
+    "thor-crouch-low": "u7-tb-2",
+    "thor-air-low": "u7-tb-3",
+    "thor-stand-bare": "u7-tb-6",
+    "thor-cape-detach": "u7-tb-7",
+    "thor-cape-held": "u7-tb-8",
+    "thor-cape-spread": "u7-tb-9",
+    "thor-kneel-bare": "u7-tb-10",
+    "thor-ride-rest": "u7-ride-1",
+    "thor-ride-look": "u7-ride-2",
+    "thor-ride-brace": "u7-ride-3",
+    "thor-ride-wave": "u7-ride-4",
+    "thor-mount": "u7-ride-5",
+    "thor-drowsy-bare": "u7-ride-6",
+    "thor-sleep-bare": "u7-ride-7",
+    "thor-stand-caped": "u7-ride-9",
+    "thor-low-giggle": "u7-tr-1",
+    "thor-unimpressed": "u7-tr-2",
+    "thor-sneak": "u7-tr-3",
+    "thor-tail-poke": "u7-tr-4",
+    "thor-jar-knock": "u7-tr-5",
+    "thor-jar-hop": "u7-tr-6",
+    "thor-jar-freed": "u7-tr-7",
+    "thor-thunder-charge": "u7-tr-8",
+    "thor-thunder-raise": "u7-tr-9",
+    "thor-thunder-lower": "u7-tr-10",
+    "thor-thunder-shy": "u7-tr-11",
+    "thor-recall-look": "thor-throw6-0",
+    "thor-recall-throw": "thor-throw6-2",
+    "thor-recall-empty": "thor-throw6-5",
+    "thor-recall-catch": "thor-throw6-10",
+    "throg-laugh": "u7-tr-1",
+    "throg-proud": "u7-tb-0",
+    "throg-reach": "u7-tb-5",
+    "throg-sleep": "u7-ride-11",
+    "throg-ride": "u7-ride-1",
+    "loki-walk-0": "u7-walk-1",
+    "loki-walk-1": "u7-walk-2",
+    "loki-walk-2": "u7-walk-3",
+    "loki-walk-3": "u7-walk-4",
+    "loki-walk-4": "u7-walk-5",
+    "loki-walk-5": "u7-walk-6",
+    "loki-walk-6": "u7-walk-7",
+    "loki-walk-7": "u7-walk-8",
+    "throg-hop-0": "u7-tb-2",
+    "throg-hop-1": "u7-tb-3",
+    "throg-hop-2": "u7-tb-3",
+    "throg-hop-3": "u7-tb-2",
+    "thor-unaware": "thor-throw6-0"
+  },
+  "color_calibration": {
+    "u7-lb-0": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-lb-1": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-lb-2": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-lb-3": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-lb-4": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-lb-5": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-lb-6": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-lb-7": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-lb-8": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-lb-9": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-lb-10": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-lb-11": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-walk-0": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-walk-1": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-walk-2": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-walk-3": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-walk-4": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-walk-5": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-walk-6": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-walk-7": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-walk-8": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-walk-9": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-walk-10": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-walk-11": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-daily-0": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-daily-1": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-daily-2": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-daily-3": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-daily-4": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-daily-5": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-daily-6": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-daily-7": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-daily-8": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-daily-9": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-daily-10": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-daily-11": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-costume-0": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-costume-1": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-costume-2": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-costume-3": {
+      "skin": {
+        "before_main": "3b472d",
+        "locked_main": "748954",
+        "shade_shift": 2
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-costume-4": {
+      "skin": {
+        "before_main": "3b472d",
+        "locked_main": "748954",
+        "shade_shift": 2
+      },
+      "cream": {
+        "before_main": "fff0ba",
+        "locked_main": "f1e0a0",
+        "shade_shift": -1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-costume-5": {
+      "skin": {
+        "before_main": "3b472d",
+        "locked_main": "748954",
+        "shade_shift": 2
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-costume-6": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-costume-7": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-costume-8": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-costume-9": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-costume-10": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-costume-11": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-mimic-0": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-mimic-1": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-mimic-2": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-mimic-3": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-mimic-4": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-mimic-5": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-mimic-6": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-mimic-7": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-mimic-8": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-mimic-9": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-mimic-10": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-mimic-11": {
+      "skin": {
+        "before_main": "748954",
+        "locked_main": "748954",
+        "shade_shift": 0
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "e4ac2f",
+        "locked_main": "e4ac2f",
+        "shade_shift": 0
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-tb-0": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tb-1": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tb-2": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tb-3": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tb-4": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tb-5": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tb-6": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tb-7": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tb-8": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tb-9": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tb-10": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tb-11": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-ride-0": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-ride-1": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-ride-2": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-ride-3": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-ride-4": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-ride-5": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-ride-6": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-ride-7": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-ride-8": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-ride-9": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-ride-10": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-ride-11": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tr-0": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tr-1": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tr-2": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tr-3": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tr-4": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tr-5": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tr-6": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tr-7": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tr-8": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tr-9": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tr-10": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tr-11": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tongue-0": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "d4c686",
+        "locked_main": "f1e0a0",
+        "shade_shift": 1
+      },
+      "gold": {
+        "before_main": "a96b1e",
+        "locked_main": "e4ac2f",
+        "shade_shift": 1
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-tongue-1": {
+      "skin": {
+        "before_main": "566940",
+        "locked_main": "748954",
+        "shade_shift": 1
+      },
+      "cream": {
+        "before_main": "f1e0a0",
+        "locked_main": "f1e0a0",
+        "shade_shift": 0
+      },
+      "gold": {
+        "before_main": "a96b1e",
+        "locked_main": "e4ac2f",
+        "shade_shift": 1
+      },
+      "gold_aliases": {
+        "ff941e": "e4ac2f",
+        "ffc352": "ffd55d"
+      }
+    },
+    "u7-tongue-2": {},
+    "u7-tongue-3": {},
+    "u7-tongue-4": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tongue-5": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tongue-6": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-tongue-7": {
+      "frog_green": {
+        "before_main": "96c72f",
+        "main": "96c72f",
+        "shift": 0
+      }
+    },
+    "u7-empty-0": {},
+    "u7-empty-1": {},
+    "u7-empty-2": {},
+    "u7-empty-3": {},
+    "u7-empty-4": {},
+    "u7-empty-5": {},
+    "u7-empty-6": {},
+    "u7-empty-7": {}
+  },
+  "legacy_gold_repair": {
+    "aliases": {
+      "ff941e": "e4ac2f",
+      "ffc352": "ffd55d"
+    },
+    "sprites": {
+      "loki-bite-crouch": 684,
+      "loki-bite-fly-extend": 572,
+      "loki-bite-fly-tuck": 636,
+      "loki-flight-land": 692,
+      "loki-fly-release": 720,
+      "loki-prank-laugh": 644,
+      "loki-release-mouth": 832,
+      "loki-secret-cheeks": 876,
+      "loki-snake-bulge": 804,
+      "loki-snake-low": 816,
+      "loki-snake-mouth": 664,
+      "loki-snake-return": 776,
+      "loki-snake-slither": 704,
+      "loki-snake-start": 636
+    },
+    "alpha_and_geometry_unchanged": true
+  }
+}

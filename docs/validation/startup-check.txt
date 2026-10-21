@@ -1,0 +1,1 @@
+Native layered windows started; ticks=139; audio play calls=1; audio error=

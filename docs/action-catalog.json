@@ -1,0 +1,218 @@
+{
+  "hammer": {
+    "title": "锤子压洛基",
+    "seconds": 9,
+    "actor": "both",
+    "fps": 24
+  },
+  "ride": {
+    "title": "骑鳄鱼巡游",
+    "seconds": 12,
+    "actor": "both",
+    "fps": 24
+  },
+  "cozy": {
+    "title": "一条披风，一起休息",
+    "seconds": 16,
+    "actor": "both",
+    "fps": 24
+  },
+  "heart": {
+    "title": "洛基比心",
+    "seconds": 6,
+    "actor": "loki",
+    "fps": 24
+  },
+  "bath": {
+    "title": "洛基泡泡浴",
+    "seconds": 10,
+    "actor": "loki",
+    "fps": 24
+  },
+  "venom": {
+    "title": "毒液变装",
+    "seconds": 8,
+    "actor": "loki",
+    "fps": 24
+  },
+  "doctor": {
+    "title": "奇异博士变装",
+    "seconds": 16,
+    "actor": "loki",
+    "fps": 24
+  },
+  "recall": {
+    "title": "雷神召回锤子",
+    "seconds": 6,
+    "actor": "thor",
+    "fps": 24
+  },
+  "lightning": {
+    "title": "雷神小雷电",
+    "seconds": 6,
+    "actor": "thor",
+    "fps": 24
+  },
+  "mimic": {
+    "title": "洛基假扮鳄鱼雷神",
+    "seconds": 10,
+    "actor": "both",
+    "fps": 24
+  },
+  "zap": {
+    "title": "偷偷电一下尾巴",
+    "seconds": 12,
+    "actor": "both",
+    "fps": 24
+  },
+  "jar": {
+    "title": "透明魔法罐子",
+    "seconds": 12,
+    "actor": "both",
+    "fps": 24
+  },
+  "snake": {
+    "title": "舌头卷入 · 变蛇恶作剧",
+    "seconds": 20,
+    "actor": "both",
+    "fps": 24
+  },
+  "flight": {
+    "title": "掷锤 · 飞扑咬住 · 随锤飞",
+    "seconds": 20,
+    "actor": "both",
+    "fps": 24
+  },
+  "thorheart": {
+    "title": "雷神比心",
+    "seconds": 8,
+    "actor": "thor",
+    "fps": 24
+  },
+  "thorfly": {
+    "title": "甩锤起飞",
+    "seconds": 9,
+    "actor": "thor",
+    "fps": 24
+  },
+  "gear": {
+    "title": "擦锤子，整理装备",
+    "seconds": 10,
+    "actor": "thor",
+    "fps": 24
+  },
+  "cloud": {
+    "title": "蛙叫小雷雨",
+    "seconds": 10,
+    "actor": "thor",
+    "fps": 24
+  },
+  "landing": {
+    "title": "英雄落地，偷偷揉脚",
+    "seconds": 7,
+    "actor": "thor",
+    "fps": 24
+  },
+  "thorsleep": {
+    "title": "抱锤裹披风打盹",
+    "seconds": 12,
+    "actor": "thor",
+    "fps": 24
+  },
+  "sparkchase": {
+    "title": "追一颗小闪电",
+    "seconds": 8,
+    "actor": "thor",
+    "fps": 24
+  },
+  "mirror": {
+    "title": "照镜子，扶正翼盔",
+    "seconds": 8,
+    "actor": "thor",
+    "fps": 24
+  },
+  "beat": {
+    "title": "用锤柄敲节拍",
+    "seconds": 7,
+    "actor": "thor",
+    "fps": 24
+  },
+  "greet": {
+    "title": "向你挥手打招呼",
+    "seconds": 6,
+    "actor": "thor",
+    "fps": 24
+  },
+  "sun": {
+    "title": "晒太阳打盹",
+    "seconds": 10,
+    "actor": "loki",
+    "fps": 24
+  },
+  "run": {
+    "title": "洛基小跑",
+    "seconds": 8,
+    "actor": "loki",
+    "fps": 24
+  },
+  "prank": {
+    "title": "搓爪，假装无辜",
+    "seconds": 7,
+    "actor": "loki",
+    "fps": 24
+  },
+  "tailchase": {
+    "title": "追自己的尾巴",
+    "seconds": 9,
+    "actor": "loki",
+    "fps": 24
+  },
+  "horns": {
+    "title": "梳理金角",
+    "seconds": 8,
+    "actor": "loki",
+    "fps": 24
+  },
+  "snack": {
+    "title": "变出小零食",
+    "seconds": 8,
+    "actor": "loki",
+    "fps": 24
+  },
+  "laugh": {
+    "title": "洛基开怀大笑",
+    "seconds": 6,
+    "actor": "loki",
+    "fps": 24
+  },
+  "drag": {
+    "title": "被拎起，四脚蹬蹬",
+    "seconds": 7,
+    "actor": "loki",
+    "fps": 24
+  },
+  "duobath": {
+    "title": "洗澡搭档",
+    "seconds": 14,
+    "actor": "both",
+    "fps": 24
+  },
+  "swing": {
+    "title": "尾巴秋千",
+    "seconds": 13,
+    "actor": "both",
+    "fps": 24
+  },
+  "reconcile": {
+    "title": "闹完碰拳和好",
+    "seconds": 12,
+    "actor": "both",
+    "fps": 24
+  },
+  "snackshare": {
+    "title": "分一半零食给哥哥",
+    "seconds": 14,
+    "actor": "both",
+    "fps": 24
+  }
+}

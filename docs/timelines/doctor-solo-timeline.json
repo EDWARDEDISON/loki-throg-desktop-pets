@@ -1,0 +1,7693 @@
+{
+  "fps": 24,
+  "count": 384,
+  "width": 384,
+  "height": 256,
+  "baseline": 214,
+  "seconds": 16,
+  "actor": "loki",
+  "pixel_grid": 2,
+  "preview_scale": 2,
+  "frames": [
+    {
+      "frame": 0,
+      "time": 0.0,
+      "pose": "loki-idle",
+      "caption": "自然待机",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 1,
+      "time": 0.041666666666666664,
+      "pose": "loki-idle",
+      "caption": "自然待机",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 2,
+      "time": 0.08333333333333333,
+      "pose": "loki-idle",
+      "caption": "自然待机",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 3,
+      "time": 0.125,
+      "pose": "loki-idle",
+      "caption": "自然待机",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 4,
+      "time": 0.16666666666666666,
+      "pose": "loki-idle",
+      "caption": "自然待机",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 5,
+      "time": 0.20833333333333334,
+      "pose": "loki-idle",
+      "caption": "自然待机",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 6,
+      "time": 0.25,
+      "pose": "loki-idle",
+      "caption": "自然待机",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 7,
+      "time": 0.2916666666666667,
+      "pose": "loki-idle",
+      "caption": "自然待机",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 8,
+      "time": 0.3333333333333333,
+      "pose": "loki-idle",
+      "caption": "自然待机",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 9,
+      "time": 0.375,
+      "pose": "loki-idle",
+      "caption": "自然待机",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 10,
+      "time": 0.4166666666666667,
+      "pose": "loki-idle",
+      "caption": "自然待机",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 11,
+      "time": 0.4583333333333333,
+      "pose": "loki-idle",
+      "caption": "自然待机",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 12,
+      "time": 0.5,
+      "pose": "loki-idle",
+      "caption": "自然待机",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 13,
+      "time": 0.5416666666666666,
+      "pose": "loki-idle",
+      "caption": "自然待机",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 14,
+      "time": 0.5833333333333334,
+      "pose": "loki-idle",
+      "caption": "自然待机",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 15,
+      "time": 0.625,
+      "pose": "loki-idle",
+      "caption": "自然待机",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 16,
+      "time": 0.6666666666666666,
+      "pose": "loki-idle",
+      "caption": "自然待机",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 17,
+      "time": 0.7083333333333334,
+      "pose": "loki-idle",
+      "caption": "自然待机",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 18,
+      "time": 0.75,
+      "pose": "loki-idle",
+      "caption": "准备试一套新衣服",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 19,
+      "time": 0.7916666666666666,
+      "pose": "loki-idle",
+      "caption": "准备试一套新衣服",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 20,
+      "time": 0.8333333333333334,
+      "pose": "loki-idle",
+      "caption": "准备试一套新衣服",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 21,
+      "time": 0.875,
+      "pose": "loki-idle",
+      "caption": "准备试一套新衣服",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 22,
+      "time": 0.9166666666666666,
+      "pose": "loki-idle",
+      "caption": "准备试一套新衣服",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 23,
+      "time": 0.9583333333333334,
+      "pose": "loki-idle",
+      "caption": "准备试一套新衣服",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 24,
+      "time": 1.0,
+      "pose": "loki-idle",
+      "caption": "准备试一套新衣服",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 25,
+      "time": 1.0416666666666667,
+      "pose": "loki-idle",
+      "caption": "准备试一套新衣服",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 26,
+      "time": 1.0833333333333333,
+      "pose": "loki-idle",
+      "caption": "准备试一套新衣服",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 27,
+      "time": 1.125,
+      "pose": "loki-idle",
+      "caption": "准备试一套新衣服",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 28,
+      "time": 1.1666666666666667,
+      "pose": "loki-idle",
+      "caption": "准备试一套新衣服",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 29,
+      "time": 1.2083333333333333,
+      "pose": "loki-idle",
+      "caption": "准备试一套新衣服",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 30,
+      "time": 1.25,
+      "pose": "loki-idle",
+      "caption": "准备试一套新衣服",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 31,
+      "time": 1.2916666666666667,
+      "pose": "loki-idle",
+      "caption": "准备试一套新衣服",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 32,
+      "time": 1.3333333333333333,
+      "pose": "loki-doctor-start",
+      "caption": "四脚站稳，蓝衣红披风出现",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 33,
+      "time": 1.375,
+      "pose": "loki-doctor-start",
+      "caption": "四脚站稳，蓝衣红披风出现",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 34,
+      "time": 1.4166666666666667,
+      "pose": "loki-doctor-start",
+      "caption": "四脚站稳，蓝衣红披风出现",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 35,
+      "time": 1.4583333333333333,
+      "pose": "loki-doctor-start",
+      "caption": "四脚站稳，蓝衣红披风出现",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 36,
+      "time": 1.5,
+      "pose": "loki-doctor-start",
+      "caption": "四脚站稳，蓝衣红披风出现",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 37,
+      "time": 1.5416666666666667,
+      "pose": "loki-doctor-start",
+      "caption": "四脚站稳，蓝衣红披风出现",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 38,
+      "time": 1.5833333333333333,
+      "pose": "loki-doctor-start",
+      "caption": "四脚站稳，蓝衣红披风出现",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 39,
+      "time": 1.625,
+      "pose": "loki-doctor-start",
+      "caption": "四脚站稳，蓝衣红披风出现",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 40,
+      "time": 1.6666666666666667,
+      "pose": "u7-costume-7",
+      "caption": "披风和蓝衣慢慢成形",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "u7-costume-7",
+          "x": 86,
+          "y": 106,
+          "width": 170,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 41,
+      "time": 1.7083333333333333,
+      "pose": "u7-costume-7",
+      "caption": "披风和蓝衣慢慢成形",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "u7-costume-7",
+          "x": 86,
+          "y": 106,
+          "width": 170,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 42,
+      "time": 1.75,
+      "pose": "u7-costume-7",
+      "caption": "披风和蓝衣慢慢成形",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "u7-costume-7",
+          "x": 86,
+          "y": 106,
+          "width": 170,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 43,
+      "time": 1.7916666666666667,
+      "pose": "u7-costume-7",
+      "caption": "披风和蓝衣慢慢成形",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "u7-costume-7",
+          "x": 86,
+          "y": 106,
+          "width": 170,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 44,
+      "time": 1.8333333333333333,
+      "pose": "u7-costume-7",
+      "caption": "披风和蓝衣慢慢成形",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "u7-costume-7",
+          "x": 86,
+          "y": 106,
+          "width": 170,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 45,
+      "time": 1.875,
+      "pose": "u7-costume-7",
+      "caption": "披风和蓝衣慢慢成形",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "u7-costume-7",
+          "x": 86,
+          "y": 106,
+          "width": 170,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 46,
+      "time": 1.9166666666666667,
+      "pose": "u7-costume-7",
+      "caption": "披风和蓝衣慢慢成形",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "u7-costume-7",
+          "x": 86,
+          "y": 106,
+          "width": 170,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 47,
+      "time": 1.9583333333333333,
+      "pose": "u7-costume-7",
+      "caption": "披风和蓝衣慢慢成形",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "u7-costume-7",
+          "x": 86,
+          "y": 106,
+          "width": 170,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 48,
+      "time": 2.0,
+      "pose": "loki-doctor-full",
+      "caption": "整理好衣领和小金饰",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 49,
+      "time": 2.0416666666666665,
+      "pose": "loki-doctor-full",
+      "caption": "整理好衣领和小金饰",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 50,
+      "time": 2.0833333333333335,
+      "pose": "loki-doctor-full",
+      "caption": "整理好衣领和小金饰",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 51,
+      "time": 2.125,
+      "pose": "loki-doctor-full",
+      "caption": "整理好衣领和小金饰",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 52,
+      "time": 2.1666666666666665,
+      "pose": "loki-doctor-full",
+      "caption": "整理好衣领和小金饰",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 53,
+      "time": 2.2083333333333335,
+      "pose": "loki-doctor-full",
+      "caption": "整理好衣领和小金饰",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 54,
+      "time": 2.25,
+      "pose": "loki-doctor-full",
+      "caption": "整理好衣领和小金饰",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 55,
+      "time": 2.2916666666666665,
+      "pose": "loki-doctor-full",
+      "caption": "整理好衣领和小金饰",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 56,
+      "time": 2.3333333333333335,
+      "pose": "loki-doctor-full",
+      "caption": "整理好衣领和小金饰",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 57,
+      "time": 2.375,
+      "pose": "loki-doctor-full",
+      "caption": "整理好衣领和小金饰",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 58,
+      "time": 2.4166666666666665,
+      "pose": "loki-doctor-full",
+      "caption": "整理好衣领和小金饰",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 59,
+      "time": 2.4583333333333335,
+      "pose": "loki-doctor-full",
+      "caption": "整理好衣领和小金饰",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 60,
+      "time": 2.5,
+      "pose": "loki-doctor-full",
+      "caption": "整理好衣领和小金饰",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 61,
+      "time": 2.5416666666666665,
+      "pose": "loki-doctor-full",
+      "caption": "整理好衣领和小金饰",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 62,
+      "time": 2.5833333333333335,
+      "pose": "loki-doctor-full",
+      "caption": "整理好衣领和小金饰",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 63,
+      "time": 2.625,
+      "pose": "loki-doctor-full",
+      "caption": "整理好衣领和小金饰",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 64,
+      "time": 2.6666666666666665,
+      "pose": "loki-doctor-full",
+      "caption": "整理好衣领和小金饰",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 65,
+      "time": 2.7083333333333335,
+      "pose": "loki-doctor-full",
+      "caption": "整理好衣领和小金饰",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 66,
+      "time": 2.75,
+      "pose": "loki-doctor-full",
+      "caption": "整理好衣领和小金饰",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 67,
+      "time": 2.7916666666666665,
+      "pose": "loki-doctor-full",
+      "caption": "整理好衣领和小金饰",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_transition",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 68,
+      "time": 2.8333333333333335,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 69,
+      "time": 2.875,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 70,
+      "time": 2.9166666666666665,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 71,
+      "time": 2.9583333333333335,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 72,
+      "time": 3.0,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 73,
+      "time": 3.0416666666666665,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 74,
+      "time": 3.0833333333333335,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 75,
+      "time": 3.125,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 76,
+      "time": 3.1666666666666665,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 77,
+      "time": 3.2083333333333335,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 78,
+      "time": 3.25,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 79,
+      "time": 3.2916666666666665,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 80,
+      "time": 3.3333333333333335,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 81,
+      "time": 3.375,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 82,
+      "time": 3.4166666666666665,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 83,
+      "time": 3.4583333333333335,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 84,
+      "time": 3.5,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 85,
+      "time": 3.5416666666666665,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 86,
+      "time": 3.5833333333333335,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 87,
+      "time": 3.625,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 88,
+      "time": 3.6666666666666665,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 89,
+      "time": 3.7083333333333335,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 90,
+      "time": 3.75,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 91,
+      "time": 3.7916666666666665,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 92,
+      "time": 3.8333333333333335,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 93,
+      "time": 3.875,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 94,
+      "time": 3.9166666666666665,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 95,
+      "time": 3.9583333333333335,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 96,
+      "time": 4.0,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 97,
+      "time": 4.041666666666667,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 98,
+      "time": 4.083333333333333,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 99,
+      "time": 4.125,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 100,
+      "time": 4.166666666666667,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 101,
+      "time": 4.208333333333333,
+      "phase": "spell_open",
+      "caption": "金橙色法阵在前爪外侧展开",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 102,
+      "time": 4.25,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 103,
+      "time": 4.291666666666667,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 104,
+      "time": 4.333333333333333,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 105,
+      "time": 4.375,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 106,
+      "time": 4.416666666666667,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 107,
+      "time": 4.458333333333333,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 108,
+      "time": 4.5,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 109,
+      "time": 4.541666666666667,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 110,
+      "time": 4.583333333333333,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 111,
+      "time": 4.625,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 112,
+      "time": 4.666666666666667,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 113,
+      "time": 4.708333333333333,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 114,
+      "time": 4.75,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 115,
+      "time": 4.791666666666667,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 116,
+      "time": 4.833333333333333,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 117,
+      "time": 4.875,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 118,
+      "time": 4.916666666666667,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 119,
+      "time": 4.958333333333333,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 120,
+      "time": 5.0,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 121,
+      "time": 5.041666666666667,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 122,
+      "time": 5.083333333333333,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 123,
+      "time": 5.125,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 124,
+      "time": 5.166666666666667,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 125,
+      "time": 5.208333333333333,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 126,
+      "time": 5.25,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 127,
+      "time": 5.291666666666667,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 128,
+      "time": 5.333333333333333,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 129,
+      "time": 5.375,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 130,
+      "time": 5.416666666666667,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 131,
+      "time": 5.458333333333333,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 132,
+      "time": 5.5,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 133,
+      "time": 5.541666666666667,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 134,
+      "time": 5.583333333333333,
+      "phase": "portal_open",
+      "caption": "画出两个传送门，准备走一圈",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 135,
+      "time": 5.625,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 136,
+      "time": 5.666666666666667,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 137,
+      "time": 5.708333333333333,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 138,
+      "time": 5.75,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 139,
+      "time": 5.791666666666667,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 140,
+      "time": 5.833333333333333,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 141,
+      "time": 5.875,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 142,
+      "time": 5.916666666666667,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 92,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 143,
+      "time": 5.958333333333333,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 92,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 144,
+      "time": 6.0,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 86,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 145,
+      "time": 6.041666666666667,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 86,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 146,
+      "time": 6.083333333333333,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 88,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 147,
+      "time": 6.125,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 98,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 148,
+      "time": 6.166666666666667,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 100,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 149,
+      "time": 6.208333333333333,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 102,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 150,
+      "time": 6.25,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 98,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 151,
+      "time": 6.291666666666667,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 102,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 152,
+      "time": 6.333333333333333,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 106,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 153,
+      "time": 6.375,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 118,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 154,
+      "time": 6.416666666666667,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 124,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 155,
+      "time": 6.458333333333333,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 130,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 156,
+      "time": 6.5,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 128,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 157,
+      "time": 6.541666666666667,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 136,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 158,
+      "time": 6.583333333333333,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 142,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 159,
+      "time": 6.625,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 154,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 160,
+      "time": 6.666666666666667,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 162,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 161,
+      "time": 6.708333333333333,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 170,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 162,
+      "time": 6.75,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 172,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 163,
+      "time": 6.791666666666667,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 180,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 164,
+      "time": 6.833333333333333,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 188,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 165,
+      "time": 6.875,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 200,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 166,
+      "time": 6.916666666666667,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 208,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 167,
+      "time": 6.958333333333333,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 216,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 168,
+      "time": 7.0,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 220,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 169,
+      "time": 7.041666666666667,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 228,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 170,
+      "time": 7.083333333333333,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 234,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 171,
+      "time": 7.125,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 244,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 172,
+      "time": 7.166666666666667,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 250,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 173,
+      "time": 7.208333333333333,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 256,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 174,
+      "time": 7.25,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 260,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 175,
+      "time": 7.291666666666667,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 264,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 176,
+      "time": 7.333333333333333,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 268,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 177,
+      "time": 7.375,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 274,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 178,
+      "time": 7.416666666666667,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 278,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 179,
+      "time": 7.458333333333333,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 280,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 180,
+      "time": 7.5,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 282,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 181,
+      "time": 7.541666666666667,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 284,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 182,
+      "time": 7.583333333333333,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 286,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 183,
+      "time": 7.625,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 288,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 184,
+      "time": 7.666666666666667,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 290,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 185,
+      "time": 7.708333333333333,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 290,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 186,
+      "time": 7.75,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 290,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 187,
+      "time": 7.791666666666667,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 292,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 188,
+      "time": 7.833333333333333,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 292,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 189,
+      "time": 7.875,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 292,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 190,
+      "time": 7.916666666666667,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 292,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 191,
+      "time": 7.958333333333333,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 292,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 192,
+      "time": 8.0,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 292,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 193,
+      "time": 8.041666666666666,
+      "phase": "enter_portal",
+      "caption": "先走进右边的门，尾巴最后进去",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 292,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 194,
+      "time": 8.083333333333334,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": -98,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 195,
+      "time": 8.125,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": -90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 196,
+      "time": 8.166666666666666,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": -90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 197,
+      "time": 8.208333333333334,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": -90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 198,
+      "time": 8.25,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": -98,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 199,
+      "time": 8.291666666666666,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": -98,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 200,
+      "time": 8.333333333333334,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": -98,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 201,
+      "time": 8.375,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": -88,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 202,
+      "time": 8.416666666666666,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": -88,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 203,
+      "time": 8.458333333333334,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": -88,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 204,
+      "time": 8.5,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": -94,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 205,
+      "time": 8.541666666666666,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": -92,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 206,
+      "time": 8.583333333333334,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": -92,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 207,
+      "time": 8.625,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": -82,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 208,
+      "time": 8.666666666666666,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": -78,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 209,
+      "time": 8.708333333333334,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": -76,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 210,
+      "time": 8.75,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": -80,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 211,
+      "time": 8.791666666666666,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": -78,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 212,
+      "time": 8.833333333333334,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": -74,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 213,
+      "time": 8.875,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": -60,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 214,
+      "time": 8.916666666666666,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": -56,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 215,
+      "time": 8.958333333333334,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": -52,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 216,
+      "time": 9.0,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": -54,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 217,
+      "time": 9.041666666666666,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": -48,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 218,
+      "time": 9.083333333333334,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": -42,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 219,
+      "time": 9.125,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": -28,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 220,
+      "time": 9.166666666666666,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": -22,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 221,
+      "time": 9.208333333333334,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": -14,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 222,
+      "time": 9.25,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": -16,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 223,
+      "time": 9.291666666666666,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": -10,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 224,
+      "time": 9.333333333333334,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": -2,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 225,
+      "time": 9.375,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 12,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 226,
+      "time": 9.416666666666666,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 18,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 227,
+      "time": 9.458333333333334,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 26,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 228,
+      "time": 9.5,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 24,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 229,
+      "time": 9.541666666666666,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 30,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 230,
+      "time": 9.583333333333334,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 36,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 231,
+      "time": 9.625,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 48,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 232,
+      "time": 9.666666666666666,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 54,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 233,
+      "time": 9.708333333333334,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 60,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 234,
+      "time": 9.75,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 56,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 235,
+      "time": 9.791666666666666,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 60,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 236,
+      "time": 9.833333333333334,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 64,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 237,
+      "time": 9.875,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 74,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 238,
+      "time": 9.916666666666666,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 78,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 239,
+      "time": 9.958333333333334,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 80,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 240,
+      "time": 10.0,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 74,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 241,
+      "time": 10.041666666666666,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 76,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 242,
+      "time": 10.083333333333334,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 78,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 243,
+      "time": 10.125,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 86,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 244,
+      "time": 10.166666666666666,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 88,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 245,
+      "time": 10.208333333333334,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 88,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 246,
+      "time": 10.25,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 247,
+      "time": 10.291666666666666,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 248,
+      "time": 10.333333333333334,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 249,
+      "time": 10.375,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 250,
+      "time": 10.416666666666666,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 251,
+      "time": 10.458333333333334,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-step",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-step",
+          "x": 90,
+          "y": 102,
+          "width": 166,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 252,
+      "time": 10.5,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 253,
+      "time": 10.541666666666666,
+      "phase": "exit_portal",
+      "caption": "从左边探头出来，身体和尾巴依次跟上",
+      "loki_pose": "loki-doctor-full",
+      "visible_spell": true,
+      "portal_clip": true,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-full",
+          "x": 82,
+          "y": 104,
+          "width": 174,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 254,
+      "time": 10.583333333333334,
+      "phase": "close_portals",
+      "caption": "尾尖也出来了，收起两扇门",
+      "loki_pose": "u7-costume-11",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "u7-costume-11",
+          "x": 88,
+          "y": 102,
+          "width": 168,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 255,
+      "time": 10.625,
+      "phase": "close_portals",
+      "caption": "尾尖也出来了，收起两扇门",
+      "loki_pose": "u7-costume-11",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "u7-costume-11",
+          "x": 88,
+          "y": 102,
+          "width": 168,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 256,
+      "time": 10.666666666666666,
+      "phase": "close_portals",
+      "caption": "尾尖也出来了，收起两扇门",
+      "loki_pose": "u7-costume-11",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "u7-costume-11",
+          "x": 88,
+          "y": 102,
+          "width": 168,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 257,
+      "time": 10.708333333333334,
+      "phase": "close_portals",
+      "caption": "尾尖也出来了，收起两扇门",
+      "loki_pose": "u7-costume-11",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "u7-costume-11",
+          "x": 88,
+          "y": 102,
+          "width": 168,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 258,
+      "time": 10.75,
+      "phase": "close_portals",
+      "caption": "尾尖也出来了，收起两扇门",
+      "loki_pose": "u7-costume-11",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "u7-costume-11",
+          "x": 88,
+          "y": 102,
+          "width": 168,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 259,
+      "time": 10.791666666666666,
+      "phase": "close_portals",
+      "caption": "尾尖也出来了，收起两扇门",
+      "loki_pose": "u7-costume-11",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "u7-costume-11",
+          "x": 88,
+          "y": 102,
+          "width": 168,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 260,
+      "time": 10.833333333333334,
+      "phase": "close_portals",
+      "caption": "尾尖也出来了，收起两扇门",
+      "loki_pose": "u7-costume-11",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "u7-costume-11",
+          "x": 88,
+          "y": 102,
+          "width": 168,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 261,
+      "time": 10.875,
+      "phase": "close_portals",
+      "caption": "尾尖也出来了，收起两扇门",
+      "loki_pose": "u7-costume-11",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "u7-costume-11",
+          "x": 88,
+          "y": 102,
+          "width": 168,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 262,
+      "time": 10.916666666666666,
+      "phase": "close_portals",
+      "caption": "尾尖也出来了，收起两扇门",
+      "loki_pose": "u7-costume-11",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "u7-costume-11",
+          "x": 88,
+          "y": 102,
+          "width": 168,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 263,
+      "time": 10.958333333333334,
+      "phase": "close_portals",
+      "caption": "尾尖也出来了，收起两扇门",
+      "loki_pose": "u7-costume-11",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "u7-costume-11",
+          "x": 88,
+          "y": 102,
+          "width": 168,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 264,
+      "time": 11.0,
+      "phase": "close_portals",
+      "caption": "尾尖也出来了，收起两扇门",
+      "loki_pose": "u7-costume-11",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "u7-costume-11",
+          "x": 88,
+          "y": 102,
+          "width": 168,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 265,
+      "time": 11.041666666666666,
+      "phase": "close_portals",
+      "caption": "尾尖也出来了，收起两扇门",
+      "loki_pose": "u7-costume-11",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "u7-costume-11",
+          "x": 88,
+          "y": 102,
+          "width": 168,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 266,
+      "time": 11.083333333333334,
+      "phase": "close_portals",
+      "caption": "尾尖也出来了，收起两扇门",
+      "loki_pose": "u7-costume-11",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "u7-costume-11",
+          "x": 88,
+          "y": 102,
+          "width": 168,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 267,
+      "time": 11.125,
+      "phase": "close_portals",
+      "caption": "尾尖也出来了，收起两扇门",
+      "loki_pose": "u7-costume-11",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "u7-costume-11",
+          "x": 88,
+          "y": 102,
+          "width": 168,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 268,
+      "time": 11.166666666666666,
+      "phase": "close_portals",
+      "caption": "尾尖也出来了，收起两扇门",
+      "loki_pose": "u7-costume-11",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "u7-costume-11",
+          "x": 88,
+          "y": 102,
+          "width": 168,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 269,
+      "time": 11.208333333333334,
+      "phase": "close_portals",
+      "caption": "尾尖也出来了，收起两扇门",
+      "loki_pose": "u7-costume-11",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "u7-costume-11",
+          "x": 88,
+          "y": 102,
+          "width": 168,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 270,
+      "time": 11.25,
+      "phase": "close_portals",
+      "caption": "尾尖也出来了，收起两扇门",
+      "loki_pose": "u7-costume-11",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "u7-costume-11",
+          "x": 88,
+          "y": 102,
+          "width": 168,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 271,
+      "time": 11.291666666666666,
+      "phase": "close_portals",
+      "caption": "尾尖也出来了，收起两扇门",
+      "loki_pose": "u7-costume-11",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "u7-costume-11",
+          "x": 88,
+          "y": 102,
+          "width": 168,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 272,
+      "time": 11.333333333333334,
+      "phase": "close_portals",
+      "caption": "尾尖也出来了，收起两扇门",
+      "loki_pose": "u7-costume-11",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "u7-costume-11",
+          "x": 88,
+          "y": 102,
+          "width": 168,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 273,
+      "time": 11.375,
+      "phase": "close_portals",
+      "caption": "尾尖也出来了，收起两扇门",
+      "loki_pose": "u7-costume-11",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "u7-costume-11",
+          "x": 88,
+          "y": 102,
+          "width": 168,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 274,
+      "time": 11.416666666666666,
+      "phase": "close_portals",
+      "caption": "尾尖也出来了，收起两扇门",
+      "loki_pose": "u7-costume-11",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "u7-costume-11",
+          "x": 88,
+          "y": 102,
+          "width": 168,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 275,
+      "time": 11.458333333333334,
+      "phase": "close_portals",
+      "caption": "尾尖也出来了，收起两扇门",
+      "loki_pose": "u7-costume-11",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "u7-costume-11",
+          "x": 88,
+          "y": 102,
+          "width": 168,
+          "height": 112,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 276,
+      "time": 11.5,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 277,
+      "time": 11.541666666666666,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 278,
+      "time": 11.583333333333334,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 279,
+      "time": 11.625,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 280,
+      "time": 11.666666666666666,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 281,
+      "time": 11.708333333333334,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 282,
+      "time": 11.75,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 283,
+      "time": 11.791666666666666,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 284,
+      "time": 11.833333333333334,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 285,
+      "time": 11.875,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 286,
+      "time": 11.916666666666666,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 287,
+      "time": 11.958333333333334,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 288,
+      "time": 12.0,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 289,
+      "time": 12.041666666666666,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 290,
+      "time": 12.083333333333334,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 291,
+      "time": 12.125,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 292,
+      "time": 12.166666666666666,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 293,
+      "time": 12.208333333333334,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 294,
+      "time": 12.25,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 295,
+      "time": 12.291666666666666,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 296,
+      "time": 12.333333333333334,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 297,
+      "time": 12.375,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": true,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 298,
+      "time": 12.416666666666666,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 299,
+      "time": 12.458333333333334,
+      "phase": "spell_flourish",
+      "caption": "再亮一下法阵，眨眨眼",
+      "loki_pose": "loki-doctor-magic",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-doctor-magic",
+          "x": 72,
+          "y": 104,
+          "width": 184,
+          "height": 110,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 300,
+      "time": 12.5,
+      "pose": "loki-doctor-start",
+      "caption": "准备收起变装",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 301,
+      "time": 12.541666666666666,
+      "pose": "loki-doctor-start",
+      "caption": "准备收起变装",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 302,
+      "time": 12.583333333333334,
+      "pose": "loki-doctor-start",
+      "caption": "准备收起变装",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 303,
+      "time": 12.625,
+      "pose": "loki-doctor-start",
+      "caption": "准备收起变装",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 304,
+      "time": 12.666666666666666,
+      "pose": "loki-doctor-start",
+      "caption": "准备收起变装",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 305,
+      "time": 12.708333333333334,
+      "pose": "loki-doctor-start",
+      "caption": "准备收起变装",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 306,
+      "time": 12.75,
+      "pose": "loki-doctor-start",
+      "caption": "准备收起变装",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 307,
+      "time": 12.791666666666666,
+      "pose": "loki-doctor-start",
+      "caption": "准备收起变装",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 308,
+      "time": 12.833333333333334,
+      "pose": "loki-doctor-start",
+      "caption": "准备收起变装",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 309,
+      "time": 12.875,
+      "pose": "loki-doctor-start",
+      "caption": "准备收起变装",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 310,
+      "time": 12.916666666666666,
+      "pose": "loki-doctor-start",
+      "caption": "准备收起变装",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 311,
+      "time": 12.958333333333334,
+      "pose": "loki-doctor-start",
+      "caption": "准备收起变装",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 312,
+      "time": 13.0,
+      "pose": "loki-doctor-start",
+      "caption": "准备收起变装",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 313,
+      "time": 13.041666666666666,
+      "pose": "loki-doctor-start",
+      "caption": "准备收起变装",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 314,
+      "time": 13.083333333333334,
+      "pose": "loki-doctor-start",
+      "caption": "准备收起变装",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 315,
+      "time": 13.125,
+      "pose": "loki-doctor-start",
+      "caption": "准备收起变装",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 316,
+      "time": 13.166666666666666,
+      "pose": "loki-doctor-start",
+      "caption": "准备收起变装",
+      "effect": null,
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-doctor-start",
+          "x": 84,
+          "y": 106,
+          "width": 172,
+          "height": 108,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 317,
+      "time": 13.208333333333334,
+      "pose": "loki-idle",
+      "caption": "魔法散去，恢复原样",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 318,
+      "time": 13.25,
+      "pose": "loki-idle",
+      "caption": "魔法散去，恢复原样",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 319,
+      "time": 13.291666666666666,
+      "pose": "loki-idle",
+      "caption": "魔法散去，恢复原样",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 320,
+      "time": 13.333333333333334,
+      "pose": "loki-idle",
+      "caption": "魔法散去，恢复原样",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 321,
+      "time": 13.375,
+      "pose": "loki-idle",
+      "caption": "魔法散去，恢复原样",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 322,
+      "time": 13.416666666666666,
+      "pose": "loki-idle",
+      "caption": "魔法散去，恢复原样",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 323,
+      "time": 13.458333333333334,
+      "pose": "loki-idle",
+      "caption": "魔法散去，恢复原样",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 324,
+      "time": 13.5,
+      "pose": "loki-idle",
+      "caption": "魔法散去，恢复原样",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 325,
+      "time": 13.541666666666666,
+      "pose": "loki-idle",
+      "caption": "魔法散去，恢复原样",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 326,
+      "time": 13.583333333333334,
+      "pose": "loki-idle",
+      "caption": "魔法散去，恢复原样",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 327,
+      "time": 13.625,
+      "pose": "loki-idle",
+      "caption": "魔法散去，恢复原样",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 328,
+      "time": 13.666666666666666,
+      "pose": "loki-idle",
+      "caption": "魔法散去，恢复原样",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 329,
+      "time": 13.708333333333334,
+      "pose": "loki-idle",
+      "caption": "魔法散去，恢复原样",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 330,
+      "time": 13.75,
+      "pose": "loki-idle",
+      "caption": "魔法散去，恢复原样",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 331,
+      "time": 13.791666666666666,
+      "pose": "loki-idle",
+      "caption": "魔法散去，恢复原样",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 332,
+      "time": 13.833333333333334,
+      "pose": "loki-idle",
+      "caption": "魔法散去，恢复原样",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 333,
+      "time": 13.875,
+      "pose": "loki-idle",
+      "caption": "魔法散去，恢复原样",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 334,
+      "time": 13.916666666666666,
+      "pose": "loki-idle",
+      "caption": "魔法散去，恢复原样",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 335,
+      "time": 13.958333333333334,
+      "pose": "loki-idle",
+      "caption": "魔法散去，恢复原样",
+      "effect": "green",
+      "hammer_owner": null,
+      "phase": "costume_return",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ],
+      "visible_spell": false
+    },
+    {
+      "frame": 336,
+      "time": 14.0,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 337,
+      "time": 14.041666666666666,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 338,
+      "time": 14.083333333333334,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 339,
+      "time": 14.125,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 340,
+      "time": 14.166666666666666,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 341,
+      "time": 14.208333333333334,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 342,
+      "time": 14.25,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 343,
+      "time": 14.291666666666666,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 344,
+      "time": 14.333333333333334,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 345,
+      "time": 14.375,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 346,
+      "time": 14.416666666666666,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 347,
+      "time": 14.458333333333334,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 348,
+      "time": 14.5,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 349,
+      "time": 14.541666666666666,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 350,
+      "time": 14.583333333333334,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 351,
+      "time": 14.625,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 352,
+      "time": 14.666666666666666,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 353,
+      "time": 14.708333333333334,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 354,
+      "time": 14.75,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 355,
+      "time": 14.791666666666666,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 356,
+      "time": 14.833333333333334,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 357,
+      "time": 14.875,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 358,
+      "time": 14.916666666666666,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 359,
+      "time": 14.958333333333334,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 360,
+      "time": 15.0,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 361,
+      "time": 15.041666666666666,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 362,
+      "time": 15.083333333333334,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 363,
+      "time": 15.125,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 364,
+      "time": 15.166666666666666,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 365,
+      "time": 15.208333333333334,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 366,
+      "time": 15.25,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 367,
+      "time": 15.291666666666666,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 368,
+      "time": 15.333333333333334,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 369,
+      "time": 15.375,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 370,
+      "time": 15.416666666666666,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 371,
+      "time": 15.458333333333334,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 372,
+      "time": 15.5,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 373,
+      "time": 15.541666666666666,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 374,
+      "time": 15.583333333333334,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 375,
+      "time": 15.625,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 376,
+      "time": 15.666666666666666,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 377,
+      "time": 15.708333333333334,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 378,
+      "time": 15.75,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 379,
+      "time": 15.791666666666666,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 380,
+      "time": 15.833333333333334,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 381,
+      "time": 15.875,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 382,
+      "time": 15.916666666666666,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    },
+    {
+      "frame": 383,
+      "time": 15.958333333333334,
+      "phase": "idle",
+      "caption": "自然待机",
+      "loki_pose": "loki-idle",
+      "visible_spell": false,
+      "portal_clip": false,
+      "real_hammer_owner": "none",
+      "records": [
+        {
+          "sprite": "loki-idle",
+          "x": 88,
+          "y": 110,
+          "width": 168,
+          "height": 104,
+          "flip": false
+        }
+      ]
+    }
+  ]
+}

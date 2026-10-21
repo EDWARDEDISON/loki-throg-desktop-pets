@@ -1,0 +1,1586 @@
+{
+  "version": 8,
+  "reference": "character-master-v7.png",
+  "grid": 2,
+  "sources": {
+    "th": {
+      "actor": "thor",
+      "file": "exec-7768fe2c-2162-4508-80f6-c27f4e32fbe1.png",
+      "common_native_scale": [
+        0.16356877323420074,
+        0.16923076923076924
+      ],
+      "sprites": {
+        "u8-th-0": {
+          "size": [
+            88,
+            88
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-th-1": {
+          "size": [
+            96,
+            72
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-th-2": {
+          "size": [
+            92,
+            88
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-th-3": {
+          "size": [
+            82,
+            88
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-th-4": {
+          "size": [
+            80,
+            86
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-th-5": {
+          "size": [
+            92,
+            88
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-th-6": {
+          "size": [
+            96,
+            88
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-th-7": {
+          "size": [
+            86,
+            86
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-th-8": {
+          "size": [
+            84,
+            90
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-th-9": {
+          "size": [
+            86,
+            90
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-th-10": {
+          "size": [
+            82,
+            90
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-th-11": {
+          "size": [
+            100,
+            88
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        }
+      }
+    },
+    "tg": {
+      "actor": "thor",
+      "file": "exec-4c318eb1-ae30-4e70-b7dc-b552c31ea407.png",
+      "common_native_scale": [
+        0.17054263565891473,
+        0.17670682730923695
+      ],
+      "sprites": {
+        "u8-tg-0": {
+          "size": [
+            88,
+            88
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tg-1": {
+          "size": [
+            92,
+            80
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tg-2": {
+          "size": [
+            90,
+            84
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tg-3": {
+          "size": [
+            102,
+            92
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tg-4": {
+          "size": [
+            82,
+            94
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tg-5": {
+          "size": [
+            84,
+            92
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tg-6": {
+          "size": [
+            88,
+            92
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tg-7": {
+          "size": [
+            86,
+            88
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tg-8": {
+          "size": [
+            100,
+            80
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tg-9": {
+          "size": [
+            96,
+            82
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tg-10": {
+          "size": [
+            98,
+            92
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tg-11": {
+          "size": [
+            100,
+            90
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        }
+      }
+    },
+    "tw": {
+      "actor": "thor",
+      "file": "exec-af45bd42-a8ad-4638-8d42-5cbb2eb1ba18.png",
+      "common_native_scale": [
+        0.17120622568093385,
+        0.17391304347826086
+      ],
+      "sprites": {
+        "u8-tw-0": {
+          "size": [
+            88,
+            88
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tw-1": {
+          "size": [
+            86,
+            86
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tw-2": {
+          "size": [
+            92,
+            90
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tw-3": {
+          "size": [
+            86,
+            88
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tw-4": {
+          "size": [
+            88,
+            88
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tw-5": {
+          "size": [
+            100,
+            80
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tw-6": {
+          "size": [
+            88,
+            84
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tw-7": {
+          "size": [
+            98,
+            90
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tw-8": {
+          "size": [
+            98,
+            72
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tw-9": {
+          "size": [
+            104,
+            74
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tw-10": {
+          "size": [
+            90,
+            84
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tw-11": {
+          "size": [
+            90,
+            88
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        }
+      }
+    },
+    "tf": {
+      "actor": "thor",
+      "file": "exec-d041db27-f6d4-4489-b0cc-7cc62b7ac7f7.png",
+      "common_native_scale": [
+        0.19130434782608696,
+        0.2009132420091324
+      ],
+      "sprites": {
+        "u8-tf-0": {
+          "size": [
+            88,
+            88
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tf-1": {
+          "size": [
+            118,
+            82
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tf-2": {
+          "size": [
+            96,
+            100
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tf-3": {
+          "size": [
+            130,
+            92
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tf-4": {
+          "size": [
+            130,
+            86
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tf-5": {
+          "size": [
+            110,
+            106
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tf-6": {
+          "size": [
+            110,
+            74
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tf-7": {
+          "size": [
+            98,
+            84
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tf-8": {
+          "size": [
+            88,
+            90
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tf-9": {
+          "size": [
+            80,
+            80
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tf-10": {
+          "size": [
+            98,
+            92
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-tf-11": {
+          "size": [
+            104,
+            88
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        }
+      }
+    },
+    "ld": {
+      "actor": "loki",
+      "file": "exec-5caa545a-c7d5-49de-9327-bbda4532b464.png",
+      "common_native_scale": [
+        0.23796033994334279,
+        0.22413793103448276
+      ],
+      "sprites": {
+        "u8-ld-0": {
+          "size": [
+            168,
+            104
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "566940",
+              "locked_main": "748954",
+              "shade_shift": 1
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-ld-1": {
+          "size": [
+            144,
+            106
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "566940",
+              "locked_main": "748954",
+              "shade_shift": 1
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-ld-2": {
+          "size": [
+            118,
+            110
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "566940",
+              "locked_main": "748954",
+              "shade_shift": 1
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-ld-3": {
+          "size": [
+            124,
+            106
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "566940",
+              "locked_main": "748954",
+              "shade_shift": 1
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-ld-4": {
+          "size": [
+            134,
+            114
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "748954",
+              "locked_main": "748954",
+              "shade_shift": 0
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-ld-5": {
+          "size": [
+            112,
+            116
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "566940",
+              "locked_main": "748954",
+              "shade_shift": 1
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-ld-6": {
+          "size": [
+            168,
+            112
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "566940",
+              "locked_main": "748954",
+              "shade_shift": 1
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-ld-7": {
+          "size": [
+            112,
+            112
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "566940",
+              "locked_main": "748954",
+              "shade_shift": 1
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-ld-8": {
+          "size": [
+            164,
+            110
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "566940",
+              "locked_main": "748954",
+              "shade_shift": 1
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-ld-9": {
+          "size": [
+            128,
+            112
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "566940",
+              "locked_main": "748954",
+              "shade_shift": 1
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-ld-10": {
+          "size": [
+            118,
+            108
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "566940",
+              "locked_main": "748954",
+              "shade_shift": 1
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-ld-11": {
+          "size": [
+            148,
+            102
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "566940",
+              "locked_main": "748954",
+              "shade_shift": 1
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        }
+      }
+    },
+    "lx": {
+      "actor": "loki",
+      "file": "exec-2b936535-9b47-4c02-82c0-e3d67a17a924.png",
+      "common_native_scale": [
+        0.2413793103448276,
+        0.22608695652173913
+      ],
+      "sprites": {
+        "u8-lx-0": {
+          "size": [
+            168,
+            104
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "748954",
+              "locked_main": "748954",
+              "shade_shift": 0
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "a96b1e",
+              "locked_main": "e4ac2f",
+              "shade_shift": 1
+            }
+          }
+        },
+        "u8-lx-1": {
+          "size": [
+            172,
+            76
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "748954",
+              "locked_main": "748954",
+              "shade_shift": 0
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "a96b1e",
+              "locked_main": "e4ac2f",
+              "shade_shift": 1
+            }
+          }
+        },
+        "u8-lx-2": {
+          "size": [
+            178,
+            72
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "566940",
+              "locked_main": "748954",
+              "shade_shift": 1
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-lx-3": {
+          "size": [
+            138,
+            130
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "748954",
+              "locked_main": "748954",
+              "shade_shift": 0
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-lx-4": {
+          "size": [
+            126,
+            122
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "566940",
+              "locked_main": "748954",
+              "shade_shift": 1
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-lx-5": {
+          "size": [
+            170,
+            104
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "566940",
+              "locked_main": "748954",
+              "shade_shift": 1
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-lx-6": {
+          "size": [
+            176,
+            100
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "566940",
+              "locked_main": "748954",
+              "shade_shift": 1
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "a96b1e",
+              "locked_main": "e4ac2f",
+              "shade_shift": 1
+            }
+          }
+        },
+        "u8-lx-7": {
+          "size": [
+            142,
+            122
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "566940",
+              "locked_main": "748954",
+              "shade_shift": 1
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-lx-8": {
+          "size": [
+            128,
+            120
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "566940",
+              "locked_main": "748954",
+              "shade_shift": 1
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-lx-9": {
+          "size": [
+            160,
+            120
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "748954",
+              "locked_main": "748954",
+              "shade_shift": 0
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "a96b1e",
+              "locked_main": "e4ac2f",
+              "shade_shift": 1
+            }
+          }
+        },
+        "u8-lx-10": {
+          "size": [
+            132,
+            118
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "566940",
+              "locked_main": "748954",
+              "shade_shift": 1
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "a96b1e",
+              "locked_main": "e4ac2f",
+              "shade_shift": 1
+            }
+          }
+        },
+        "u8-lx-11": {
+          "size": [
+            168,
+            114
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "566940",
+              "locked_main": "748954",
+              "shade_shift": 1
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        }
+      }
+    },
+    "dl": {
+      "actor": "loki",
+      "file": "exec-3e850532-6b55-4a79-8cd3-1266d6406c3b.png",
+      "common_native_scale": [
+        0.25925925925925924,
+        0.22608695652173913
+      ],
+      "sprites": {
+        "u8-dl-0": {
+          "size": [
+            168,
+            104
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "748954",
+              "locked_main": "748954",
+              "shade_shift": 0
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-dl-1": {
+          "size": [
+            186,
+            82
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "748954",
+              "locked_main": "748954",
+              "shade_shift": 0
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-dl-2": {
+          "size": [
+            168,
+            94
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "748954",
+              "locked_main": "748954",
+              "shade_shift": 0
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-dl-4": {
+          "size": [
+            176,
+            98
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "748954",
+              "locked_main": "748954",
+              "shade_shift": 0
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-dl-5": {
+          "size": [
+            178,
+            82
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "748954",
+              "locked_main": "748954",
+              "shade_shift": 0
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-dl-6": {
+          "size": [
+            152,
+            122
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "748954",
+              "locked_main": "748954",
+              "shade_shift": 0
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-dl-7": {
+          "size": [
+            150,
+            118
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "748954",
+              "locked_main": "748954",
+              "shade_shift": 0
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-dl-8": {
+          "size": [
+            156,
+            128
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "748954",
+              "locked_main": "748954",
+              "shade_shift": 0
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-dl-9": {
+          "size": [
+            156,
+            128
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "748954",
+              "locked_main": "748954",
+              "shade_shift": 0
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-dl-10": {
+          "size": [
+            176,
+            118
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "748954",
+              "locked_main": "748954",
+              "shade_shift": 0
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        },
+        "u8-dl-11": {
+          "size": [
+            146,
+            122
+          ],
+          "calibration": {
+            "skin": {
+              "before_main": "748954",
+              "locked_main": "748954",
+              "shade_shift": 0
+            },
+            "cream": {
+              "before_main": "d4c686",
+              "locked_main": "f1e0a0",
+              "shade_shift": 1
+            },
+            "gold": {
+              "before_main": "e4ac2f",
+              "locked_main": "e4ac2f",
+              "shade_shift": 0
+            }
+          }
+        }
+      }
+    },
+    "dt": {
+      "actor": "thor",
+      "file": "exec-dc968a5c-ca28-4dc1-a32e-2b943486be7c.png",
+      "common_native_scale": [
+        0.16417910447761194,
+        0.17054263565891473
+      ],
+      "sprites": {
+        "u8-dt-0": {
+          "size": [
+            88,
+            88
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-dt-1": {
+          "size": [
+            90,
+            74
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-dt-2": {
+          "size": [
+            86,
+            84
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-dt-3": {
+          "size": [
+            110,
+            86
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-dt-4": {
+          "size": [
+            92,
+            84
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-dt-5": {
+          "size": [
+            82,
+            72
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-dt-6": {
+          "size": [
+            94,
+            90
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-dt-7": {
+          "size": [
+            102,
+            76
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-dt-8": {
+          "size": [
+            84,
+            94
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-dt-9": {
+          "size": [
+            84,
+            94
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-dt-10": {
+          "size": [
+            82,
+            88
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-dt-11": {
+          "size": [
+            78,
+            90
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        }
+      }
+    },
+    "ds": {
+      "actor": "thor",
+      "file": "exec-7a163a83-5fb6-4c20-b25e-c981d333f548.png",
+      "common_native_scale": [
+        0.14915254237288136,
+        0.14965986394557823
+      ],
+      "sprites": {
+        "u8-ds-0": {
+          "size": [
+            88,
+            88
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-ds-1": {
+          "size": [
+            96,
+            86
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-ds-2": {
+          "size": [
+            90,
+            86
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-ds-3": {
+          "size": [
+            90,
+            86
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-ds-4": {
+          "size": [
+            106,
+            86
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-ds-5": {
+          "size": [
+            100,
+            88
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-ds-6": {
+          "size": [
+            106,
+            88
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        },
+        "u8-ds-7": {
+          "size": [
+            90,
+            86
+          ],
+          "calibration": {
+            "frog_green_main": "96c72f",
+            "shift": 0
+          }
+        }
+      }
+    }
+  },
+  "excluded": [
+    "u8-dl-3: source snout cropped at sheet edge"
+  ],
+  "new_usable_images": 103
+}

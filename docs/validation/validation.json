@@ -1,0 +1,93 @@
+{
+  "version": 10,
+  "native_engine_self_test": {
+    "result": "PASS",
+    "assertions": 29100,
+    "log": "native-self-test-v10.txt"
+  },
+  "startup_and_async_audio_smoke": "Native layered windows started; ticks=139; audio play calls=1; audio error=",
+  "original_v9_png_sha256_matches": 446,
+  "original_atlases_unchanged": 36,
+  "timeline_frames_retained": 8736,
+  "timeline_fps": 24,
+  "new_frog_poses": [
+    "u10-thordrag-0.png",
+    "u10-thordrag-1.png",
+    "u10-thordrag-2.png",
+    "u10-thordrag-3.png",
+    "u10-thordrag-4.png",
+    "u10-thordrag-5.png",
+    "u10-thordrag-6.png",
+    "u10-thordrag-7.png"
+  ],
+  "new_pose_grid": 2,
+  "audio_effects_pcm16_mono_22050_frames": {
+    "chime": 9922,
+    "chirp": 5512,
+    "croak": 5954,
+    "drop": 3969,
+    "giggle": 8599,
+    "heart": 11686,
+    "magic": 11907,
+    "munch": 7056,
+    "pickup": 4190,
+    "soft": 7497,
+    "splash": 6394,
+    "thud": 4851,
+    "whoosh": 6615,
+    "zap": 4851
+  },
+  "full_autonomy_roaming_simulation": {
+    "loki": {
+      "min_x": 0.0,
+      "max_x": 2160.0,
+      "physical_window_width": 400
+    },
+    "thor": {
+      "min_x": 0.0,
+      "max_x": 2304.0,
+      "physical_window_width": 256
+    },
+    "simulation_seconds": 600,
+    "work_area_width": 2560,
+    "scale": 2,
+    "pair_events": 10,
+    "pair_sequence": [
+      "snake",
+      "snake",
+      "cozy",
+      "jar",
+      "flight",
+      "mimic",
+      "ride",
+      "jar",
+      "snackshare",
+      "hammer"
+    ],
+    "automatic_encounters_and_solos_enabled": true
+  },
+  "preview": {
+    "file": "previews/雷神拎起与落下-v10.mp4",
+    "fps": 24,
+    "seconds": 6,
+    "audio": true,
+    "frames": "native Engine.PetFrame output"
+  },
+  "image_generation": {
+    "mode": "built-in image_gen",
+    "prompt": "frog-pickup-prompt-v10.txt",
+    "reference": "character-master-v7.png"
+  },
+  "limitations": [
+    "No manual end-to-end mouse menu test in this turn.",
+    "Audio API call succeeded; subjective sound and user device audibility require user audition."
+  ],
+  "original_v10_exe_sha256": "5bcfa2c1397408edb597d7ed9fd827c2cac383c21f2ad59efedb82cf923f6a21",
+  "exe_sha256": "b9e18e535987cc70937a7b9a0e0b74eaccaa4651f5408802a16abc3321d87b6b",
+  "packaging": {
+    "version": "0.10.0.0",
+    "engine_source_unchanged_from_v10": true,
+    "current_build_self_test": "PASS, 29100 assertions",
+    "startup_smoke": "Original v10 engine; preserved as historical startup record. This packaging-only build was not launched alongside the user running pet instance."
+  }
+}

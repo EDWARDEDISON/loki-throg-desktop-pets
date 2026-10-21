@@ -1,0 +1,62 @@
+{
+  "pixel_grid": 2,
+  "reference": "character-master-v7.png",
+  "sprites": {
+    "u10-thordrag-0": {
+      "size": [
+        88,
+        88
+      ],
+      "frog_green_shift": 0
+    },
+    "u10-thordrag-1": {
+      "size": [
+        98,
+        102
+      ],
+      "frog_green_shift": 0
+    },
+    "u10-thordrag-2": {
+      "size": [
+        82,
+        92
+      ],
+      "frog_green_shift": 0
+    },
+    "u10-thordrag-3": {
+      "size": [
+        104,
+        94
+      ],
+      "frog_green_shift": 0
+    },
+    "u10-thordrag-4": {
+      "size": [
+        102,
+        96
+      ],
+      "frog_green_shift": 0
+    },
+    "u10-thordrag-5": {
+      "size": [
+        92,
+        86
+      ],
+      "frog_green_shift": 0
+    },
+    "u10-thordrag-6": {
+      "size": [
+        90,
+        104
+      ],
+      "frog_green_shift": 0
+    },
+    "u10-thordrag-7": {
+      "size": [
+        92,
+        86
+      ],
+      "frog_green_shift": 0
+    }
+  }
+}
