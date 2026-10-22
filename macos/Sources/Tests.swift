@@ -1,4 +1,5 @@
 import AppKit
+import ImageIO
 
 enum Tests {
     static func run(resources: URL, output: URL) throws {

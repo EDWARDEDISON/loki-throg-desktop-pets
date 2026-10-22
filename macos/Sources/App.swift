@@ -46,7 +46,7 @@ final class AppDelegate: NSObject, NSApplicationDelegate, NSMenuDelegate {
             if let id = Bundle.main.bundleIdentifier, NSRunningApplication.runningApplications(withBundleIdentifier: id).contains(where: { $0.processIdentifier != ProcessInfo.processInfo.processIdentifier }) { NSApp.terminate(nil); return }
             let screens = Self.screens(); guard !screens.isEmpty else { throw SpriteStore.error("No screen is available.") }
             engine = Engine(catalog: try Catalog(resources: resources), areas: screens); art = try SpriteStore(root: resources); audio = AudioPlayer(root: resources, persist: smokeOutput == nil)
-            if smokeOutput != nil { audio.enabled = false }
+            if smokeOutput != nil { audio.enabled = false; engine.autoPair = false; engine.autoSolo = false }
             engine.onSound = { [weak self] key, _ in self?.audio.play(key) }
             lokiWindow = makeWindow(engine.loki); thorWindow = makeWindow(engine.thor)
             pairWindow = PetPanel(); soloWindow = PetPanel()
