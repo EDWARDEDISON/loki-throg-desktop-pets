@@ -1,12 +1,19 @@
 # 洛基与雷神 · 像素桌宠
 
-两只会在 Windows 桌面上独立巡游、碰面玩闹的像素小伙伴：鳄鱼洛基与青蛙雷神。
+两只会在 Windows 和 macOS 桌面上独立巡游、碰面玩闹的像素小伙伴：鳄鱼洛基与青蛙雷神。
 
-**当前版本：v0.10.0。** 透明背景、右键点播、鼠标拖动、短促街机音效，解压后即可运行。
+**Windows：v0.10.0；Mac：v0.10.1 预览版。** 透明背景、右键点播、鼠标拖动、短促街机音效。
 
 ![骑鳄鱼巡游](docs/media/ride.gif)
 
 ## 下载与运行
+
+| 你的电脑 | 下载 |
+| --- | --- |
+| Windows | [Windows 运行包](https://github.com/EDWARDEDISON/loki-throg-desktop-pets/releases/tag/v0.10.0) |
+| Mac（Apple 芯片 / Intel） | [Mac 通用预览版](https://github.com/EDWARDEDISON/loki-throg-desktop-pets/releases/tag/v0.10.1-macos.1) |
+
+### Windows
 
 1. 打开 **[下载页 / Releases](https://github.com/EDWARDEDISON/loki-throg-desktop-pets/releases/latest)**，下载 `LokiThrogPets-v0.10.0-windows-x64.zip`。GitHub 自动附带的 “Source code” 是源码包。
 2. 解压到自己的文件夹。如果旧版还在运行，先从系统托盘退出旧版。
@@ -14,6 +21,14 @@
 4. 退出时，右键角色或系统托盘图标，选择「退出桌宠」。
 
 适用环境：Windows 桌面，依赖系统自带的 .NET Framework 4.x；目前在 Windows 11 上验证。程序不联网、不设置开机启动、不需要安装 Python。EXE 尚未进行代码签名；如果系统提示阻止运行，请先核对发布来源和 SHA-256，不需要关闭系统防护。
+
+### Mac
+
+下载 **LokiThrogPets-v0.10.1-macos-universal.zip**，解压得到 **LokiThrogPets.app**，可拖入「应用程序」后双击。一个包同时支持 Apple M 系列和 Intel，目标系统为 macOS 11 及以上；已在 macOS 15 的两种架构中完成编译、自检与原生透明窗口启动验证。
+
+菜单栏的 **🐊🐸** 图标可以调声音、暂停和退出；角色菜单支持触控板两指点按、鼠标右键或 Control + 点击。无需额外安装运行环境，也无需辅助功能或屏幕录制权限。
+
+Mac 版仍是预览版，欢迎实机反馈不同显示器、Spaces、全屏应用和操作手感。当前使用 ad-hoc 签名检查包完整性，尚未经过 Apple Developer ID 签名和公证；首次打开可能被系统拦下，请核对发布来源和 SHA-256，并参考 [Apple 官方说明](https://support.apple.com/en-us/102445)由本人决定是否允许打开，无需关闭系统防护。详见 [Mac 使用说明](macos/使用说明.md)。
 
 ## 它们会做什么
 
@@ -52,6 +67,8 @@
 
 输出分别在 `bin/`、`artifacts/test/` 和 `dist/`。运行包将图片和音效嵌入 EXE，使用者无需另行放置素材。
 
+Mac 原生实现使用 Swift / AppKit，在有 Xcode Command Line Tools 的 Mac 上执行 `bash macos/build.sh` 即可构建通用 `.app`；详见 [Mac 编译与测试说明](macos/README.md)。
+
 | 路径 | 内容 |
 | --- | --- |
 | `src/` | Windows Forms 原生透明窗口、行为调度与音效源码 |
@@ -61,6 +78,7 @@
 | `docs/design/` | 像素形象参考、补绘提示词与调色记录 |
 | `docs/validation/` | v0.10 的引擎自检与启动记录 |
 | `tools/` | 编译、自检和打包脚本 |
+| `macos/` | Swift / AppKit 原生 Mac 实现及通用包构建脚本 |
 
 ## 反馈问题
 

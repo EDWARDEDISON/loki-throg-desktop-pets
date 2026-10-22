@@ -1,0 +1,1 @@
+PASS: four nonactivating transparent Cocoa panels created; two independent pets visible; timer ticks=54; own views rendered to PNG. Audio muted for CI.

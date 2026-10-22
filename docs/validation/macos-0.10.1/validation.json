@@ -1,0 +1,36 @@
+{
+  "version": "0.10.1-macos.1",
+  "zip_sha256": "dfefa0533c511c713d0a29f952fa617dc620a6b310baca76608066f9122a3c22",
+  "architectures": [
+    "arm64",
+    "x86_64"
+  ],
+  "deployment_target": "macOS 11.0",
+  "source_build_commit": "f8895c8673abc7728805a5b5adc0ec81b2b8d4d3",
+  "workflow_run": "https://github.com/EDWARDEDISON/loki-throg-desktop-pets/actions/runs/39768216394",
+  "result": "PASS",
+  "verification": {
+    "arm64": {
+      "self_test": "PASS",
+      "assertions_including_pixel_checks": 613881,
+      "timeline_frames": 8736,
+      "native_windows": "PASS",
+      "source": "GitHub macOS 15 runner"
+    },
+    "x86_64": {
+      "self_test": "PASS",
+      "assertions_including_pixel_checks": 613881,
+      "timeline_frames": 8736,
+      "native_windows": "PASS",
+      "source": "GitHub macOS 15 runner"
+    }
+  },
+  "png_assets": 454,
+  "wav_effects": 14,
+  "unchanged_windows_code": true,
+  "signing": "ad-hoc integrity signature, not Developer ID/notarized",
+  "limitations": [
+    "No user-operated real-machine mouse/trackpad session in this turn.",
+    "Spaces, full-screen apps, audio hardware and first-download Gatekeeper prompts require user device feedback."
+  ]
+}

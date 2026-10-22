@@ -1,0 +1,5 @@
+PASS
+Assertions=613881
+Timeline frames=8736; paired=12; solo=24; sounds=14.
+Covered: all atlas frames, staging and release, manual seeking, contact-only pairing, uniform selection, solo timers, sleep/menu/pause guards, long roaming at 1x and 2x, rests, pickup and landing, sparse sound cues, negative monitor coordinates, size fitting, actual AppKit rendering versus Windows fixtures, transparency and pixel hit-testing.
+Architecture=arm64
