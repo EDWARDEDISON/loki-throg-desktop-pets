@@ -1,0 +1,57 @@
+name: Build macOS preview
+on:
+  workflow_dispatch:
+  push:
+    branches: [macos-port]
+    paths: ['macos/**', '.github/workflows/macos.yml']
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: macos-15
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - name: Compile Universal app
+        run: bash macos/build.sh
+      - name: Self-test on Apple Silicon
+        run: dist/macos/LokiThrogPets.app/Contents/MacOS/LokiThrogPets --self-test artifacts/macos-test-arm64
+      - name: Native transparent-window smoke test
+        run: dist/macos/LokiThrogPets.app/Contents/MacOS/LokiThrogPets --smoke-test artifacts/macos-smoke-arm64
+      - uses: actions/upload-artifact@v7.0.2
+        if: always()
+        with:
+          name: macos-build-and-validation
+          path: |
+            dist/macos/*.zip
+            dist/macos/*.txt
+            artifacts/macos-test-arm64/
+            artifacts/macos-smoke-arm64/
+          if-no-files-found: warn
+          retention-days: 14
+  intel:
+    needs: build
+    runs-on: macos-15-intel
+    timeout-minutes: 15
+    steps:
+      - uses: actions/download-artifact@v8.0.2
+        with:
+          name: macos-build-and-validation
+          path: downloaded
+      - name: Extract same Universal app
+        run: |
+          mkdir -p test-app
+          ditto -x -k downloaded/dist/macos/LokiThrogPets-v0.10.1-macos-universal.zip test-app
+          codesign --verify --deep --strict test-app/LokiThrogPets.app
+      - name: Self-test on Intel
+        run: test-app/LokiThrogPets.app/Contents/MacOS/LokiThrogPets --self-test intel-validation
+      - name: Native Intel smoke test
+        run: test-app/LokiThrogPets.app/Contents/MacOS/LokiThrogPets --smoke-test intel-smoke
+      - uses: actions/upload-artifact@v7.0.2
+        if: always()
+        with:
+          name: macos-intel-validation
+          path: |
+            intel-validation/
+            intel-smoke/
+          retention-days: 14
