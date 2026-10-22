@@ -121,7 +121,7 @@ final class PetPanel: NSPanel {
     override var canBecomeMain: Bool { false }
     init() {
         super.init(contentRect: NSRect(x: 0, y: 0, width: 200, height: 120), styleMask: [.borderless, .nonactivatingPanel], backing: .buffered, defer: false)
-        isOpaque = false; backgroundColor = .clear; hasShadow = false; level = .floating
+        isOpaque = false; backgroundColor = .clear; hasShadow = false; level = .floating; colorSpace = .sRGB
         collectionBehavior = [.canJoinAllSpaces, .fullScreenAuxiliary, .stationary]
         hidesOnDeactivate = false; isReleasedWhenClosed = false; animationBehavior = .none
         contentView = spriteView; ignoresMouseEvents = true

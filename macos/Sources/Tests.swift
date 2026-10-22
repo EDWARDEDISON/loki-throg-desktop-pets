@@ -93,10 +93,14 @@ enum Tests {
         for (name, f) in cases {
             let v = SpriteView(frame: NSRect(x: 0, y: 0, width: f.width, height: f.height)); v.frameToDraw = f; v.displayScale = 1
             let url = output.appendingPathComponent(name + ".png"); try v.exportPNG(url)
-            guard let actual = NSBitmapImageRep(data: try Data(contentsOf: url)), let expected = NSBitmapImageRep(data: try Data(contentsOf: resources.appendingPathComponent("fixtures/\(name).png"))) else { throw SpriteStore.error("Missing renderer fixture \(name)") }
+            // ImageIO interprets untagged PNG as sRGB, just like the runtime loader.
+            // NSBitmapImageRep(data:) instead assumes Generic RGB for untagged PNG.
+            let fixtureURL = resources.appendingPathComponent("fixtures/\(name).png")
+            guard let actual = NSBitmapImageRep(data: try Data(contentsOf: url)), let source = CGImageSourceCreateWithURL(fixtureURL as CFURL, nil), let reference = CGImageSourceCreateImageAtIndex(source, 0, nil) else { throw SpriteStore.error("Missing renderer fixture \(name)") }
+            let expected = NSBitmapImageRep(cgImage: reference)
             try check(actual.pixelsWide == expected.pixelsWide && actual.pixelsHigh == expected.pixelsHigh, "render dimensions \(name)")
             for y in 0..<expected.pixelsHigh { for x in 0..<expected.pixelsWide {
-                let a = actual.colorAt(x: x, y: y)!.usingColorSpace(.deviceRGB)!, b = expected.colorAt(x: x, y: y)!.usingColorSpace(.deviceRGB)!
+                let a = actual.colorAt(x: x, y: y)!.usingColorSpace(.sRGB)!, b = expected.colorAt(x: x, y: y)!.usingColorSpace(.sRGB)!
                 try check(abs(a.alphaComponent - b.alphaComponent) < 0.01, "render alpha/orientation \(name) at \(x),\(y)")
                 if b.alphaComponent > 0.99 { try check(max(abs(a.redComponent - b.redComponent), abs(a.greenComponent - b.greenComponent), abs(a.blueComponent - b.blueComponent)) < 0.035, "render color \(name)") }
                 try check(f.opaque(at: Point(x: Double(x), y: Double(y))) == (b.alphaComponent > 0.1), "transparent hit-test \(name)")
