@@ -2,6 +2,17 @@ import AppKit
 import ImageIO
 
 enum Tests {
+    // Read both PNGs through the same color-managed decoder. AppKit's bitmap
+    // initializer assigns Generic RGB to untagged data, unlike ImageIO's sRGB.
+    static func rgba(_ url: URL) throws -> (width: Int, height: Int, bytes: [UInt8]) {
+        guard let source = CGImageSourceCreateWithURL(url as CFURL, nil), let image = CGImageSourceCreateImageAtIndex(source, 0, nil) else { throw SpriteStore.error("Cannot read \(url.lastPathComponent)") }
+        var bytes = [UInt8](repeating: 0, count: image.width * image.height * 4)
+        let drawn = bytes.withUnsafeMutableBytes { buffer -> Bool in
+            guard let context = CGContext(data: buffer.baseAddress, width: image.width, height: image.height, bitsPerComponent: 8, bytesPerRow: image.width * 4, space: CGColorSpace(name: CGColorSpace.sRGB)!, bitmapInfo: CGImageAlphaInfo.premultipliedLast.rawValue | CGBitmapInfo.byteOrder32Big.rawValue) else { return false }
+            context.interpolationQuality = .none; context.draw(image, in: CGRect(x: 0, y: 0, width: image.width, height: image.height)); return true
+        }
+        guard drawn else { throw SpriteStore.error("Cannot decode RGBA") }; return (image.width, image.height, bytes)
+    }
     static func run(resources: URL, output: URL) throws {
         try FileManager.default.createDirectory(at: output, withIntermediateDirectories: true)
         var checks = 0
@@ -94,17 +105,13 @@ enum Tests {
         for (name, f) in cases {
             let v = SpriteView(frame: NSRect(x: 0, y: 0, width: f.width, height: f.height)); v.frameToDraw = f; v.displayScale = 1
             let url = output.appendingPathComponent(name + ".png"); try v.exportPNG(url)
-            // ImageIO interprets untagged PNG as sRGB, just like the runtime loader.
-            // NSBitmapImageRep(data:) instead assumes Generic RGB for untagged PNG.
-            let fixtureURL = resources.appendingPathComponent("fixtures/\(name).png")
-            guard let actual = NSBitmapImageRep(data: try Data(contentsOf: url)), let source = CGImageSourceCreateWithURL(fixtureURL as CFURL, nil), let reference = CGImageSourceCreateImageAtIndex(source, 0, nil) else { throw SpriteStore.error("Missing renderer fixture \(name)") }
-            let expected = NSBitmapImageRep(cgImage: reference)
-            try check(actual.pixelsWide == expected.pixelsWide && actual.pixelsHigh == expected.pixelsHigh, "render dimensions \(name)")
-            for y in 0..<expected.pixelsHigh { for x in 0..<expected.pixelsWide {
-                let a = actual.colorAt(x: x, y: y)!.usingColorSpace(.sRGB)!, b = expected.colorAt(x: x, y: y)!.usingColorSpace(.sRGB)!
-                try check(abs(a.alphaComponent - b.alphaComponent) < 0.01, "render alpha/orientation \(name) at \(x),\(y)")
-                if b.alphaComponent > 0.99 { try check(max(abs(a.redComponent - b.redComponent), abs(a.greenComponent - b.greenComponent), abs(a.blueComponent - b.blueComponent)) < 0.035, "render color \(name)") }
-                try check(f.opaque(at: Point(x: Double(x), y: Double(y))) == (b.alphaComponent > 0.1), "transparent hit-test \(name)")
+            let actual = try rgba(url), expected = try rgba(resources.appendingPathComponent("fixtures/\(name).png"))
+            try check(actual.width == expected.width && actual.height == expected.height, "render dimensions \(name)")
+            for y in 0..<expected.height { for x in 0..<expected.width {
+                let n = (y * expected.width + x) * 4, a = actual.bytes, b = expected.bytes
+                try check(a[n + 3] == b[n + 3], "render alpha/orientation \(name) at \(x),\(y)")
+                if b[n + 3] == 255 { try check((0..<3).allSatisfy { abs(Int(a[n + $0]) - Int(b[n + $0])) <= 2 }, "render color \(name) at \(x),\(y)") }
+                try check(f.opaque(at: Point(x: Double(x), y: Double(y))) == (b[n + 3] > 25), "transparent hit-test \(name)")
             } }
         }
         let multiple = Engine(catalog: catalog, areas: [area, WorkArea(x: -1280, y: -1440, width: 1280, height: 1000)], seed: 1)
